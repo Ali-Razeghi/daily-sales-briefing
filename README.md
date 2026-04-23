@@ -1,6 +1,6 @@
-# Daily Sales Briefing — Community Edition
+# Daily Sales Briefing - Community Edition
 
-**Automated daily sales reports for small businesses — delivered to your inbox every morning.**
+**Automated daily sales reports for small businesses - delivered to your inbox every morning.**
 
 A Python tool that reads yesterday's sales data, analyzes it, generates a polished PDF report with charts, and emails it to the business owner. Built for small businesses (restaurants, cafés, retail shops) that want a quick daily overview without logging into complex dashboards.
 
@@ -12,7 +12,7 @@ A Python tool that reads yesterday's sales data, analyzes it, generates a polish
 
 ## About This Edition
 
-This repository contains the **Community Edition** — a **feature-limited portfolio demonstration**. The full Pro Edition includes additional features (see Feature Matrix below) and is available as a commercial product.
+This repository contains the **Community Edition** - a **feature-limited portfolio demonstration**. The full Pro Edition includes additional features (see Feature Matrix below) and is available as a commercial product.
 
 **This Community Edition is for:**
 - Code review and portfolio evaluation
@@ -178,12 +178,12 @@ daily_sales_briefing/
 
 ## Tech Stack
 
-- **pandas** — data analysis
-- **matplotlib** — chart generation
-- **ReportLab** — PDF creation
-- **smtplib** — email delivery (standard library)
-- **schedule** — daily scheduling
-- **logging** — structured logging (standard library)
+- **pandas** - data analysis
+- **matplotlib** - chart generation
+- **ReportLab** - PDF creation
+- **smtplib** - email delivery (standard library)
+- **schedule** - daily scheduling
+- **logging** - structured logging (standard library)
 
 ---
 
