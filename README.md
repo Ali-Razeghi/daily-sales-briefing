@@ -10,7 +10,7 @@ A Python tool that reads yesterday's sales data, analyzes it, generates a polish
 
 ---
 
-## ⚠️ About This Edition
+## About This Edition
 
 This repository contains the **Community Edition** — a **feature-limited portfolio demonstration**. The full Pro Edition includes additional features (see Feature Matrix below) and is available as a commercial product.
 
