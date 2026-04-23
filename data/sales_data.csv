@@ -1,0 +1,1907 @@
+Date,OrderID,Category,Item,Quantity,Price,PaymentMethod,Total
+2026-03-22,ORD-01000,Drinks,Sprite,1,2.99,Card,2.99
+2026-03-22,ORD-01001,Pizza,Hawaiian,1,17.99,Debit,17.99
+2026-03-22,ORD-01001,Drinks,Coffee,1,3.49,Debit,3.49
+2026-03-22,ORD-01001,Drinks,Coke,1,2.99,Debit,2.99
+2026-03-22,ORD-01002,Pizza,Margherita,1,14.99,Card,14.99
+2026-03-22,ORD-01002,Pizza,Meat Lovers,1,19.99,Card,19.99
+2026-03-22,ORD-01003,Pizza,BBQ Chicken,1,18.99,Cash,18.99
+2026-03-22,ORD-01003,Drinks,Sprite,1,2.99,Cash,2.99
+2026-03-22,ORD-01004,Pizza,Meat Lovers,1,19.99,Card,19.99
+2026-03-22,ORD-01004,Sides,Garlic Bread,1,6.99,Card,6.99
+2026-03-22,ORD-01005,Drinks,Coffee,1,3.49,Card,3.49
+2026-03-22,ORD-01005,Pizza,Margherita,1,14.99,Card,14.99
+2026-03-22,ORD-01005,Desserts,Cheesecake,1,7.99,Card,7.99
+2026-03-22,ORD-01005,Pizza,Meat Lovers,1,19.99,Card,19.99
+2026-03-22,ORD-01006,Pizza,Vegetarian,1,15.99,Debit,15.99
+2026-03-22,ORD-01007,Sides,Mozzarella Sticks,2,9.99,Card,19.98
+2026-03-22,ORD-01007,Drinks,Coffee,1,3.49,Card,3.49
+2026-03-22,ORD-01007,Drinks,Sprite,1,2.99,Card,2.99
+2026-03-22,ORD-01008,Sides,Caesar Salad,1,8.99,Debit,8.99
+2026-03-22,ORD-01008,Pizza,Margherita,1,14.99,Debit,14.99
+2026-03-22,ORD-01009,Pizza,Hawaiian,1,17.99,Debit,17.99
+2026-03-22,ORD-01009,Drinks,Sprite,1,2.99,Debit,2.99
+2026-03-22,ORD-01009,Pizza,Vegetarian,1,15.99,Debit,15.99
+2026-03-22,ORD-01010,Pizza,Pepperoni,1,16.99,Debit,16.99
+2026-03-22,ORD-01010,Pizza,Hawaiian,1,17.99,Debit,17.99
+2026-03-22,ORD-01011,Pizza,Pepperoni,1,16.99,Cash,16.99
+2026-03-22,ORD-01011,Drinks,Sprite,1,2.99,Cash,2.99
+2026-03-22,ORD-01012,Pizza,Vegetarian,1,15.99,Card,15.99
+2026-03-22,ORD-01013,Drinks,Coffee,1,3.49,Card,3.49
+2026-03-22,ORD-01013,Sides,Mozzarella Sticks,1,9.99,Card,9.99
+2026-03-22,ORD-01013,Desserts,Tiramisu,1,7.99,Card,7.99
+2026-03-22,ORD-01014,Sides,Chicken Wings,1,12.99,Card,12.99
+2026-03-22,ORD-01014,Sides,Garlic Bread,1,6.99,Card,6.99
+2026-03-22,ORD-01015,Drinks,Coffee,1,3.49,Debit,3.49
+2026-03-22,ORD-01015,Pizza,Vegetarian,1,15.99,Debit,15.99
+2026-03-22,ORD-01015,Pizza,Meat Lovers,1,19.99,Debit,19.99
+2026-03-22,ORD-01016,Pizza,Margherita,1,14.99,Card,14.99
+2026-03-22,ORD-01016,Pizza,BBQ Chicken,1,18.99,Card,18.99
+2026-03-22,ORD-01017,Pizza,Pepperoni,1,16.99,Debit,16.99
+2026-03-22,ORD-01017,Sides,Garlic Bread,1,6.99,Debit,6.99
+2026-03-22,ORD-01017,Desserts,Cheesecake,1,7.99,Debit,7.99
+2026-03-22,ORD-01018,Pizza,BBQ Chicken,1,18.99,Cash,18.99
+2026-03-22,ORD-01019,Pizza,Meat Lovers,1,19.99,Card,19.99
+2026-03-22,ORD-01019,Pizza,Vegetarian,1,15.99,Card,15.99
+2026-03-22,ORD-01020,Drinks,Coffee,1,3.49,Debit,3.49
+2026-03-22,ORD-01021,Drinks,Sprite,1,2.99,Cash,2.99
+2026-03-22,ORD-01021,Pizza,Hawaiian,1,17.99,Cash,17.99
+2026-03-22,ORD-01021,Drinks,Coffee,1,3.49,Cash,3.49
+2026-03-22,ORD-01022,Sides,Chicken Wings,1,12.99,Card,12.99
+2026-03-22,ORD-01022,Pizza,Pepperoni,1,16.99,Card,16.99
+2026-03-22,ORD-01022,Drinks,Sprite,1,2.99,Card,2.99
+2026-03-22,ORD-01023,Drinks,Sprite,1,2.99,Card,2.99
+2026-03-22,ORD-01023,Pizza,Hawaiian,1,17.99,Card,17.99
+2026-03-22,ORD-01024,Pizza,Vegetarian,1,15.99,Debit,15.99
+2026-03-22,ORD-01024,Sides,Garlic Bread,1,6.99,Debit,6.99
+2026-03-22,ORD-01024,Drinks,Coke,1,2.99,Debit,2.99
+2026-03-22,ORD-01024,Pizza,Margherita,1,14.99,Debit,14.99
+2026-03-22,ORD-01025,Sides,Caesar Salad,1,8.99,Debit,8.99
+2026-03-22,ORD-01025,Pizza,Vegetarian,1,15.99,Debit,15.99
+2026-03-22,ORD-01026,Pizza,BBQ Chicken,1,18.99,Debit,18.99
+2026-03-22,ORD-01027,Sides,Chicken Wings,2,12.99,Card,25.98
+2026-03-22,ORD-01027,Pizza,Hawaiian,1,17.99,Card,17.99
+2026-03-22,ORD-01028,Drinks,Coke,1,2.99,Cash,2.99
+2026-03-22,ORD-01029,Drinks,Coffee,1,3.49,Card,3.49
+2026-03-22,ORD-01030,Pizza,Hawaiian,1,17.99,Cash,17.99
+2026-03-22,ORD-01030,Drinks,Sprite,1,2.99,Cash,2.99
+2026-03-22,ORD-01030,Desserts,Cheesecake,1,7.99,Cash,7.99
+2026-03-22,ORD-01030,Pizza,Vegetarian,1,15.99,Cash,15.99
+2026-03-22,ORD-01031,Pizza,Hawaiian,1,17.99,Card,17.99
+2026-03-22,ORD-01032,Drinks,Water,1,1.99,Debit,1.99
+2026-03-22,ORD-01032,Drinks,Coffee,1,3.49,Debit,3.49
+2026-03-22,ORD-01033,Pizza,Margherita,1,14.99,Cash,14.99
+2026-03-22,ORD-01033,Pizza,BBQ Chicken,1,18.99,Cash,18.99
+2026-03-22,ORD-01034,Pizza,BBQ Chicken,1,18.99,Cash,18.99
+2026-03-22,ORD-01034,Sides,Chicken Wings,1,12.99,Cash,12.99
+2026-03-22,ORD-01035,Drinks,Coke,2,2.99,Card,5.98
+2026-03-22,ORD-01036,Pizza,Vegetarian,1,15.99,Card,15.99
+2026-03-22,ORD-01036,Sides,Chicken Wings,1,12.99,Card,12.99
+2026-03-22,ORD-01036,Pizza,Hawaiian,1,17.99,Card,17.99
+2026-03-23,ORD-01037,Pizza,Meat Lovers,1,19.99,Card,19.99
+2026-03-23,ORD-01037,Pizza,Pepperoni,1,16.99,Card,16.99
+2026-03-23,ORD-01037,Desserts,Tiramisu,1,7.99,Card,7.99
+2026-03-23,ORD-01038,Pizza,Pepperoni,1,16.99,Cash,16.99
+2026-03-23,ORD-01038,Sides,Chicken Wings,1,12.99,Cash,12.99
+2026-03-23,ORD-01039,Sides,Garlic Bread,1,6.99,Cash,6.99
+2026-03-23,ORD-01039,Sides,Chicken Wings,1,12.99,Cash,12.99
+2026-03-23,ORD-01040,Drinks,Coffee,1,3.49,Card,3.49
+2026-03-23,ORD-01040,Drinks,Water,1,1.99,Card,1.99
+2026-03-23,ORD-01040,Pizza,Margherita,1,14.99,Card,14.99
+2026-03-23,ORD-01041,Pizza,BBQ Chicken,2,18.99,Card,37.98
+2026-03-23,ORD-01042,Sides,Chicken Wings,1,12.99,Cash,12.99
+2026-03-23,ORD-01043,Pizza,Hawaiian,1,17.99,Card,17.99
+2026-03-23,ORD-01043,Sides,Chicken Wings,1,12.99,Card,12.99
+2026-03-23,ORD-01044,Drinks,Sprite,1,2.99,Card,2.99
+2026-03-23,ORD-01044,Drinks,Coke,1,2.99,Card,2.99
+2026-03-23,ORD-01044,Pizza,Margherita,1,14.99,Card,14.99
+2026-03-23,ORD-01045,Drinks,Sprite,1,2.99,Card,2.99
+2026-03-23,ORD-01045,Pizza,Hawaiian,1,17.99,Card,17.99
+2026-03-23,ORD-01045,Drinks,Water,1,1.99,Card,1.99
+2026-03-23,ORD-01045,Drinks,Coke,1,2.99,Card,2.99
+2026-03-23,ORD-01046,Pizza,BBQ Chicken,1,18.99,Card,18.99
+2026-03-23,ORD-01046,Pizza,Vegetarian,1,15.99,Card,15.99
+2026-03-23,ORD-01046,Drinks,Water,1,1.99,Card,1.99
+2026-03-23,ORD-01047,Drinks,Sprite,1,2.99,Debit,2.99
+2026-03-23,ORD-01047,Pizza,Vegetarian,1,15.99,Debit,15.99
+2026-03-23,ORD-01048,Drinks,Sprite,1,2.99,Cash,2.99
+2026-03-23,ORD-01048,Drinks,Water,1,1.99,Cash,1.99
+2026-03-23,ORD-01048,Sides,Garlic Bread,1,6.99,Cash,6.99
+2026-03-23,ORD-01049,Drinks,Sprite,1,2.99,Debit,2.99
+2026-03-23,ORD-01049,Pizza,BBQ Chicken,1,18.99,Debit,18.99
+2026-03-23,ORD-01050,Drinks,Coke,1,2.99,Cash,2.99
+2026-03-23,ORD-01051,Pizza,Pepperoni,2,16.99,Card,33.98
+2026-03-23,ORD-01051,Sides,Caesar Salad,1,8.99,Card,8.99
+2026-03-23,ORD-01051,Sides,Garlic Bread,1,6.99,Card,6.99
+2026-03-23,ORD-01052,Desserts,Cheesecake,1,7.99,Debit,7.99
+2026-03-23,ORD-01053,Pizza,Pepperoni,2,16.99,Card,33.98
+2026-03-23,ORD-01053,Pizza,Hawaiian,1,17.99,Card,17.99
+2026-03-24,ORD-01054,Pizza,Vegetarian,1,15.99,Card,15.99
+2026-03-24,ORD-01054,Pizza,Margherita,1,14.99,Card,14.99
+2026-03-24,ORD-01055,Sides,Mozzarella Sticks,1,9.99,Debit,9.99
+2026-03-24,ORD-01055,Pizza,Meat Lovers,1,19.99,Debit,19.99
+2026-03-24,ORD-01056,Drinks,Coffee,1,3.49,Card,3.49
+2026-03-24,ORD-01056,Drinks,Coke,1,2.99,Card,2.99
+2026-03-24,ORD-01057,Pizza,BBQ Chicken,1,18.99,Card,18.99
+2026-03-24,ORD-01057,Pizza,Vegetarian,1,15.99,Card,15.99
+2026-03-24,ORD-01058,Pizza,Margherita,1,14.99,Card,14.99
+2026-03-24,ORD-01058,Drinks,Water,1,1.99,Card,1.99
+2026-03-24,ORD-01059,Sides,Chicken Wings,1,12.99,Card,12.99
+2026-03-24,ORD-01059,Drinks,Coffee,1,3.49,Card,3.49
+2026-03-24,ORD-01060,Pizza,BBQ Chicken,1,18.99,Debit,18.99
+2026-03-24,ORD-01060,Pizza,Hawaiian,1,17.99,Debit,17.99
+2026-03-24,ORD-01061,Drinks,Coke,1,2.99,Debit,2.99
+2026-03-24,ORD-01062,Drinks,Coffee,1,3.49,Card,3.49
+2026-03-24,ORD-01062,Sides,Mozzarella Sticks,1,9.99,Card,9.99
+2026-03-24,ORD-01063,Pizza,Pepperoni,1,16.99,Debit,16.99
+2026-03-24,ORD-01063,Pizza,Margherita,1,14.99,Debit,14.99
+2026-03-24,ORD-01063,Pizza,Meat Lovers,1,19.99,Debit,19.99
+2026-03-24,ORD-01064,Pizza,Pepperoni,1,16.99,Card,16.99
+2026-03-24,ORD-01064,Pizza,Vegetarian,1,15.99,Card,15.99
+2026-03-24,ORD-01065,Pizza,Hawaiian,1,17.99,Card,17.99
+2026-03-24,ORD-01065,Pizza,Vegetarian,1,15.99,Card,15.99
+2026-03-24,ORD-01066,Pizza,Vegetarian,1,15.99,Card,15.99
+2026-03-24,ORD-01066,Pizza,BBQ Chicken,1,18.99,Card,18.99
+2026-03-24,ORD-01066,Pizza,Margherita,1,14.99,Card,14.99
+2026-03-24,ORD-01067,Sides,Garlic Bread,1,6.99,Card,6.99
+2026-03-24,ORD-01068,Pizza,Hawaiian,1,17.99,Debit,17.99
+2026-03-24,ORD-01069,Sides,Mozzarella Sticks,1,9.99,Card,9.99
+2026-03-24,ORD-01070,Pizza,BBQ Chicken,1,18.99,Card,18.99
+2026-03-24,ORD-01070,Sides,Caesar Salad,1,8.99,Card,8.99
+2026-03-24,ORD-01071,Drinks,Sprite,1,2.99,Card,2.99
+2026-03-24,ORD-01072,Pizza,Vegetarian,1,15.99,Debit,15.99
+2026-03-24,ORD-01072,Drinks,Coke,1,2.99,Debit,2.99
+2026-03-24,ORD-01073,Pizza,Hawaiian,1,17.99,Debit,17.99
+2026-03-24,ORD-01073,Pizza,Pepperoni,1,16.99,Debit,16.99
+2026-03-24,ORD-01074,Drinks,Coke,1,2.99,Card,2.99
+2026-03-24,ORD-01074,Pizza,Margherita,1,14.99,Card,14.99
+2026-03-24,ORD-01075,Pizza,Margherita,1,14.99,Card,14.99
+2026-03-24,ORD-01076,Pizza,Vegetarian,1,15.99,Debit,15.99
+2026-03-24,ORD-01077,Pizza,BBQ Chicken,1,18.99,Card,18.99
+2026-03-24,ORD-01077,Sides,Chicken Wings,1,12.99,Card,12.99
+2026-03-24,ORD-01077,Drinks,Sprite,1,2.99,Card,2.99
+2026-03-25,ORD-01078,Pizza,Pepperoni,1,16.99,Card,16.99
+2026-03-25,ORD-01078,Pizza,Hawaiian,1,17.99,Card,17.99
+2026-03-25,ORD-01079,Drinks,Coffee,1,3.49,Card,3.49
+2026-03-25,ORD-01079,Drinks,Coke,1,2.99,Card,2.99
+2026-03-25,ORD-01079,Pizza,Hawaiian,1,17.99,Card,17.99
+2026-03-25,ORD-01080,Pizza,Hawaiian,1,17.99,Card,17.99
+2026-03-25,ORD-01080,Pizza,Pepperoni,1,16.99,Card,16.99
+2026-03-25,ORD-01081,Pizza,Vegetarian,1,15.99,Card,15.99
+2026-03-25,ORD-01082,Pizza,Meat Lovers,1,19.99,Card,19.99
+2026-03-25,ORD-01082,Desserts,Ice Cream,1,5.99,Card,5.99
+2026-03-25,ORD-01082,Sides,Caesar Salad,1,8.99,Card,8.99
+2026-03-25,ORD-01082,Pizza,Margherita,1,14.99,Card,14.99
+2026-03-25,ORD-01083,Pizza,BBQ Chicken,1,18.99,Card,18.99
+2026-03-25,ORD-01084,Pizza,Vegetarian,1,15.99,Card,15.99
+2026-03-25,ORD-01084,Pizza,Pepperoni,1,16.99,Card,16.99
+2026-03-25,ORD-01085,Sides,Mozzarella Sticks,1,9.99,Card,9.99
+2026-03-25,ORD-01086,Drinks,Water,1,1.99,Card,1.99
+2026-03-25,ORD-01087,Drinks,Coke,1,2.99,Debit,2.99
+2026-03-25,ORD-01087,Pizza,Vegetarian,1,15.99,Debit,15.99
+2026-03-25,ORD-01087,Pizza,Meat Lovers,1,19.99,Debit,19.99
+2026-03-25,ORD-01088,Pizza,Margherita,1,14.99,Card,14.99
+2026-03-25,ORD-01088,Pizza,Meat Lovers,1,19.99,Card,19.99
+2026-03-25,ORD-01089,Pizza,BBQ Chicken,1,18.99,Card,18.99
+2026-03-25,ORD-01089,Drinks,Sprite,1,2.99,Card,2.99
+2026-03-25,ORD-01090,Pizza,Meat Lovers,1,19.99,Cash,19.99
+2026-03-25,ORD-01090,Drinks,Coke,1,2.99,Cash,2.99
+2026-03-25,ORD-01090,Pizza,Margherita,1,14.99,Cash,14.99
+2026-03-25,ORD-01091,Pizza,Margherita,1,14.99,Card,14.99
+2026-03-25,ORD-01092,Pizza,Margherita,1,14.99,Card,14.99
+2026-03-25,ORD-01092,Sides,Chicken Wings,1,12.99,Card,12.99
+2026-03-25,ORD-01092,Pizza,BBQ Chicken,1,18.99,Card,18.99
+2026-03-25,ORD-01093,Sides,Chicken Wings,1,12.99,Debit,12.99
+2026-03-25,ORD-01094,Drinks,Water,1,1.99,Card,1.99
+2026-03-25,ORD-01094,Sides,Chicken Wings,1,12.99,Card,12.99
+2026-03-25,ORD-01095,Sides,Chicken Wings,1,12.99,Cash,12.99
+2026-03-25,ORD-01096,Pizza,BBQ Chicken,1,18.99,Card,18.99
+2026-03-25,ORD-01096,Desserts,Ice Cream,1,5.99,Card,5.99
+2026-03-25,ORD-01097,Pizza,Vegetarian,2,15.99,Debit,31.98
+2026-03-25,ORD-01098,Sides,Chicken Wings,1,12.99,Cash,12.99
+2026-03-25,ORD-01098,Drinks,Coke,1,2.99,Cash,2.99
+2026-03-25,ORD-01099,Pizza,Hawaiian,1,17.99,Card,17.99
+2026-03-25,ORD-01099,Drinks,Coke,1,2.99,Card,2.99
+2026-03-25,ORD-01100,Pizza,BBQ Chicken,1,18.99,Debit,18.99
+2026-03-25,ORD-01100,Drinks,Coffee,1,3.49,Debit,3.49
+2026-03-25,ORD-01101,Pizza,Margherita,1,14.99,Card,14.99
+2026-03-25,ORD-01101,Pizza,Meat Lovers,1,19.99,Card,19.99
+2026-03-25,ORD-01101,Drinks,Sprite,1,2.99,Card,2.99
+2026-03-25,ORD-01102,Sides,Mozzarella Sticks,1,9.99,Card,9.99
+2026-03-25,ORD-01102,Drinks,Water,1,1.99,Card,1.99
+2026-03-25,ORD-01103,Pizza,Margherita,1,14.99,Card,14.99
+2026-03-25,ORD-01103,Drinks,Coffee,1,3.49,Card,3.49
+2026-03-25,ORD-01104,Pizza,Margherita,1,14.99,Card,14.99
+2026-03-25,ORD-01104,Sides,Mozzarella Sticks,1,9.99,Card,9.99
+2026-03-25,ORD-01104,Drinks,Coffee,1,3.49,Card,3.49
+2026-03-25,ORD-01105,Pizza,Margherita,1,14.99,Card,14.99
+2026-03-25,ORD-01105,Pizza,Vegetarian,1,15.99,Card,15.99
+2026-03-25,ORD-01105,Pizza,BBQ Chicken,1,18.99,Card,18.99
+2026-03-26,ORD-01106,Pizza,Hawaiian,1,17.99,Card,17.99
+2026-03-26,ORD-01106,Sides,Mozzarella Sticks,1,9.99,Card,9.99
+2026-03-26,ORD-01107,Pizza,Pepperoni,1,16.99,Card,16.99
+2026-03-26,ORD-01107,Drinks,Coffee,1,3.49,Card,3.49
+2026-03-26,ORD-01108,Pizza,BBQ Chicken,1,18.99,Card,18.99
+2026-03-26,ORD-01109,Drinks,Water,1,1.99,Debit,1.99
+2026-03-26,ORD-01110,Drinks,Sprite,1,2.99,Card,2.99
+2026-03-26,ORD-01110,Sides,Mozzarella Sticks,1,9.99,Card,9.99
+2026-03-26,ORD-01111,Sides,Garlic Bread,1,6.99,Cash,6.99
+2026-03-26,ORD-01112,Drinks,Water,2,1.99,Cash,3.98
+2026-03-26,ORD-01113,Drinks,Water,1,1.99,Card,1.99
+2026-03-26,ORD-01113,Pizza,Vegetarian,1,15.99,Card,15.99
+2026-03-26,ORD-01114,Pizza,Margherita,1,14.99,Debit,14.99
+2026-03-26,ORD-01114,Pizza,Vegetarian,1,15.99,Debit,15.99
+2026-03-26,ORD-01115,Drinks,Coffee,1,3.49,Card,3.49
+2026-03-26,ORD-01116,Pizza,Vegetarian,1,15.99,Card,15.99
+2026-03-26,ORD-01116,Pizza,Hawaiian,1,17.99,Card,17.99
+2026-03-26,ORD-01117,Pizza,Vegetarian,1,15.99,Card,15.99
+2026-03-26,ORD-01118,Sides,Caesar Salad,1,8.99,Card,8.99
+2026-03-26,ORD-01118,Drinks,Water,1,1.99,Card,1.99
+2026-03-26,ORD-01118,Pizza,BBQ Chicken,1,18.99,Card,18.99
+2026-03-26,ORD-01119,Drinks,Water,1,1.99,Debit,1.99
+2026-03-26,ORD-01119,Pizza,BBQ Chicken,1,18.99,Debit,18.99
+2026-03-26,ORD-01119,Pizza,Pepperoni,1,16.99,Debit,16.99
+2026-03-27,ORD-01120,Sides,Mozzarella Sticks,1,9.99,Debit,9.99
+2026-03-27,ORD-01120,Drinks,Coke,1,2.99,Debit,2.99
+2026-03-27,ORD-01121,Drinks,Sprite,1,2.99,Card,2.99
+2026-03-27,ORD-01121,Pizza,BBQ Chicken,1,18.99,Card,18.99
+2026-03-27,ORD-01122,Pizza,Margherita,1,14.99,Card,14.99
+2026-03-27,ORD-01123,Sides,Garlic Bread,1,6.99,Card,6.99
+2026-03-27,ORD-01123,Pizza,Pepperoni,1,16.99,Card,16.99
+2026-03-27,ORD-01123,Pizza,Hawaiian,1,17.99,Card,17.99
+2026-03-27,ORD-01123,Desserts,Ice Cream,1,5.99,Card,5.99
+2026-03-27,ORD-01124,Pizza,Hawaiian,1,17.99,Debit,17.99
+2026-03-27,ORD-01124,Pizza,Meat Lovers,1,19.99,Debit,19.99
+2026-03-27,ORD-01125,Pizza,Hawaiian,1,17.99,Card,17.99
+2026-03-27,ORD-01125,Pizza,Meat Lovers,1,19.99,Card,19.99
+2026-03-27,ORD-01126,Sides,Caesar Salad,1,8.99,Card,8.99
+2026-03-27,ORD-01127,Pizza,Margherita,1,14.99,Cash,14.99
+2026-03-27,ORD-01127,Pizza,BBQ Chicken,1,18.99,Cash,18.99
+2026-03-27,ORD-01127,Desserts,Cheesecake,1,7.99,Cash,7.99
+2026-03-27,ORD-01128,Pizza,Pepperoni,1,16.99,Card,16.99
+2026-03-27,ORD-01129,Pizza,Meat Lovers,1,19.99,Cash,19.99
+2026-03-27,ORD-01129,Pizza,Margherita,1,14.99,Cash,14.99
+2026-03-27,ORD-01130,Pizza,BBQ Chicken,1,18.99,Card,18.99
+2026-03-27,ORD-01130,Pizza,Margherita,1,14.99,Card,14.99
+2026-03-27,ORD-01131,Drinks,Coffee,1,3.49,Cash,3.49
+2026-03-27,ORD-01132,Pizza,Pepperoni,1,16.99,Card,16.99
+2026-03-27,ORD-01132,Pizza,Hawaiian,1,17.99,Card,17.99
+2026-03-27,ORD-01133,Sides,Caesar Salad,1,8.99,Card,8.99
+2026-03-27,ORD-01133,Sides,Chicken Wings,2,12.99,Card,25.98
+2026-03-27,ORD-01134,Sides,Caesar Salad,1,8.99,Card,8.99
+2026-03-27,ORD-01135,Pizza,Margherita,1,14.99,Card,14.99
+2026-03-27,ORD-01135,Desserts,Ice Cream,1,5.99,Card,5.99
+2026-03-27,ORD-01136,Pizza,Margherita,1,14.99,Debit,14.99
+2026-03-27,ORD-01137,Sides,Caesar Salad,1,8.99,Card,8.99
+2026-03-27,ORD-01138,Pizza,Margherita,1,14.99,Debit,14.99
+2026-03-27,ORD-01138,Sides,Mozzarella Sticks,1,9.99,Debit,9.99
+2026-03-27,ORD-01139,Pizza,Vegetarian,1,15.99,Card,15.99
+2026-03-27,ORD-01139,Pizza,Margherita,1,14.99,Card,14.99
+2026-03-27,ORD-01139,Sides,Garlic Bread,1,6.99,Card,6.99
+2026-03-27,ORD-01140,Pizza,BBQ Chicken,1,18.99,Card,18.99
+2026-03-27,ORD-01140,Pizza,Margherita,1,14.99,Card,14.99
+2026-03-27,ORD-01141,Pizza,BBQ Chicken,2,18.99,Debit,37.98
+2026-03-27,ORD-01142,Pizza,Meat Lovers,1,19.99,Debit,19.99
+2026-03-27,ORD-01142,Pizza,Margherita,1,14.99,Debit,14.99
+2026-03-27,ORD-01143,Pizza,Meat Lovers,1,19.99,Cash,19.99
+2026-03-27,ORD-01144,Pizza,Pepperoni,1,16.99,Debit,16.99
+2026-03-27,ORD-01145,Drinks,Coffee,1,3.49,Card,3.49
+2026-03-27,ORD-01145,Pizza,Meat Lovers,1,19.99,Card,19.99
+2026-03-27,ORD-01145,Drinks,Sprite,1,2.99,Card,2.99
+2026-03-27,ORD-01146,Pizza,BBQ Chicken,1,18.99,Debit,18.99
+2026-03-27,ORD-01146,Drinks,Sprite,1,2.99,Debit,2.99
+2026-03-27,ORD-01146,Pizza,Margherita,1,14.99,Debit,14.99
+2026-03-27,ORD-01147,Pizza,Meat Lovers,1,19.99,Debit,19.99
+2026-03-27,ORD-01148,Drinks,Sprite,1,2.99,Card,2.99
+2026-03-27,ORD-01148,Pizza,BBQ Chicken,1,18.99,Card,18.99
+2026-03-27,ORD-01149,Pizza,Meat Lovers,1,19.99,Cash,19.99
+2026-03-27,ORD-01149,Drinks,Coffee,1,3.49,Cash,3.49
+2026-03-27,ORD-01149,Drinks,Water,1,1.99,Cash,1.99
+2026-03-27,ORD-01150,Pizza,Margherita,1,14.99,Debit,14.99
+2026-03-27,ORD-01151,Sides,Chicken Wings,1,12.99,Card,12.99
+2026-03-27,ORD-01151,Desserts,Ice Cream,1,5.99,Card,5.99
+2026-03-27,ORD-01151,Pizza,Vegetarian,1,15.99,Card,15.99
+2026-03-27,ORD-01152,Pizza,Meat Lovers,1,19.99,Cash,19.99
+2026-03-27,ORD-01152,Sides,Chicken Wings,1,12.99,Cash,12.99
+2026-03-28,ORD-01153,Pizza,BBQ Chicken,1,18.99,Cash,18.99
+2026-03-28,ORD-01153,Pizza,Pepperoni,1,16.99,Cash,16.99
+2026-03-28,ORD-01154,Pizza,Hawaiian,1,17.99,Card,17.99
+2026-03-28,ORD-01154,Sides,Garlic Bread,1,6.99,Card,6.99
+2026-03-28,ORD-01155,Drinks,Coffee,1,3.49,Card,3.49
+2026-03-28,ORD-01155,Pizza,Hawaiian,2,17.99,Card,35.98
+2026-03-28,ORD-01156,Sides,Caesar Salad,1,8.99,Card,8.99
+2026-03-28,ORD-01156,Pizza,BBQ Chicken,1,18.99,Card,18.99
+2026-03-28,ORD-01156,Sides,Chicken Wings,1,12.99,Card,12.99
+2026-03-28,ORD-01157,Sides,Caesar Salad,2,8.99,Card,17.98
+2026-03-28,ORD-01158,Pizza,Pepperoni,1,16.99,Card,16.99
+2026-03-28,ORD-01158,Pizza,Margherita,1,14.99,Card,14.99
+2026-03-28,ORD-01159,Sides,Chicken Wings,1,12.99,Card,12.99
+2026-03-28,ORD-01159,Sides,Mozzarella Sticks,1,9.99,Card,9.99
+2026-03-28,ORD-01159,Desserts,Tiramisu,1,7.99,Card,7.99
+2026-03-28,ORD-01160,Drinks,Coke,1,2.99,Debit,2.99
+2026-03-28,ORD-01160,Desserts,Tiramisu,1,7.99,Debit,7.99
+2026-03-28,ORD-01161,Pizza,Pepperoni,1,16.99,Cash,16.99
+2026-03-28,ORD-01161,Pizza,Vegetarian,1,15.99,Cash,15.99
+2026-03-28,ORD-01162,Pizza,Pepperoni,1,16.99,Card,16.99
+2026-03-28,ORD-01162,Pizza,Vegetarian,1,15.99,Card,15.99
+2026-03-28,ORD-01163,Drinks,Coke,1,2.99,Cash,2.99
+2026-03-28,ORD-01164,Pizza,Meat Lovers,1,19.99,Card,19.99
+2026-03-28,ORD-01165,Drinks,Coffee,1,3.49,Cash,3.49
+2026-03-28,ORD-01165,Pizza,Vegetarian,1,15.99,Cash,15.99
+2026-03-28,ORD-01165,Drinks,Sprite,1,2.99,Cash,2.99
+2026-03-28,ORD-01165,Desserts,Cheesecake,1,7.99,Cash,7.99
+2026-03-28,ORD-01166,Pizza,Vegetarian,1,15.99,Card,15.99
+2026-03-28,ORD-01167,Desserts,Cheesecake,1,7.99,Debit,7.99
+2026-03-28,ORD-01167,Pizza,Margherita,1,14.99,Debit,14.99
+2026-03-28,ORD-01168,Pizza,Pepperoni,1,16.99,Debit,16.99
+2026-03-28,ORD-01168,Pizza,Vegetarian,1,15.99,Debit,15.99
+2026-03-28,ORD-01169,Pizza,BBQ Chicken,1,18.99,Debit,18.99
+2026-03-28,ORD-01170,Pizza,Margherita,1,14.99,Debit,14.99
+2026-03-28,ORD-01170,Pizza,Hawaiian,1,17.99,Debit,17.99
+2026-03-28,ORD-01171,Sides,Mozzarella Sticks,1,9.99,Debit,9.99
+2026-03-28,ORD-01172,Drinks,Water,1,1.99,Card,1.99
+2026-03-28,ORD-01173,Sides,Mozzarella Sticks,1,9.99,Debit,9.99
+2026-03-28,ORD-01174,Drinks,Water,1,1.99,Card,1.99
+2026-03-28,ORD-01175,Pizza,Vegetarian,1,15.99,Debit,15.99
+2026-03-28,ORD-01175,Pizza,Margherita,1,14.99,Debit,14.99
+2026-03-28,ORD-01176,Sides,Caesar Salad,1,8.99,Card,8.99
+2026-03-28,ORD-01176,Drinks,Coke,1,2.99,Card,2.99
+2026-03-28,ORD-01176,Drinks,Water,1,1.99,Card,1.99
+2026-03-28,ORD-01177,Pizza,Hawaiian,1,17.99,Cash,17.99
+2026-03-28,ORD-01178,Sides,Mozzarella Sticks,1,9.99,Card,9.99
+2026-03-28,ORD-01178,Pizza,Margherita,1,14.99,Card,14.99
+2026-03-28,ORD-01179,Pizza,Vegetarian,1,15.99,Card,15.99
+2026-03-28,ORD-01180,Pizza,Vegetarian,1,15.99,Card,15.99
+2026-03-28,ORD-01180,Drinks,Sprite,1,2.99,Card,2.99
+2026-03-28,ORD-01181,Sides,Garlic Bread,2,6.99,Card,13.98
+2026-03-28,ORD-01181,Pizza,Vegetarian,1,15.99,Card,15.99
+2026-03-28,ORD-01181,Sides,Caesar Salad,1,8.99,Card,8.99
+2026-03-28,ORD-01182,Pizza,Pepperoni,1,16.99,Card,16.99
+2026-03-28,ORD-01183,Pizza,Pepperoni,2,16.99,Card,33.98
+2026-03-28,ORD-01183,Pizza,Hawaiian,1,17.99,Card,17.99
+2026-03-28,ORD-01184,Drinks,Coke,1,2.99,Card,2.99
+2026-03-28,ORD-01185,Desserts,Cheesecake,1,7.99,Cash,7.99
+2026-03-28,ORD-01185,Pizza,BBQ Chicken,1,18.99,Cash,18.99
+2026-03-28,ORD-01185,Sides,Garlic Bread,1,6.99,Cash,6.99
+2026-03-28,ORD-01185,Pizza,Hawaiian,1,17.99,Cash,17.99
+2026-03-28,ORD-01186,Pizza,Pepperoni,1,16.99,Card,16.99
+2026-03-28,ORD-01186,Pizza,BBQ Chicken,1,18.99,Card,18.99
+2026-03-28,ORD-01187,Pizza,Meat Lovers,1,19.99,Debit,19.99
+2026-03-28,ORD-01188,Drinks,Sprite,1,2.99,Card,2.99
+2026-03-28,ORD-01188,Sides,Chicken Wings,1,12.99,Card,12.99
+2026-03-28,ORD-01189,Pizza,Vegetarian,1,15.99,Card,15.99
+2026-03-28,ORD-01190,Pizza,Meat Lovers,1,19.99,Card,19.99
+2026-03-28,ORD-01190,Sides,Caesar Salad,1,8.99,Card,8.99
+2026-03-28,ORD-01191,Sides,Caesar Salad,1,8.99,Cash,8.99
+2026-03-28,ORD-01191,Sides,Chicken Wings,1,12.99,Cash,12.99
+2026-03-28,ORD-01192,Sides,Chicken Wings,1,12.99,Cash,12.99
+2026-03-28,ORD-01193,Pizza,BBQ Chicken,1,18.99,Debit,18.99
+2026-03-28,ORD-01193,Pizza,Pepperoni,1,16.99,Debit,16.99
+2026-03-28,ORD-01193,Sides,Mozzarella Sticks,1,9.99,Debit,9.99
+2026-03-28,ORD-01193,Drinks,Coke,1,2.99,Debit,2.99
+2026-03-28,ORD-01194,Drinks,Water,1,1.99,Card,1.99
+2026-03-28,ORD-01195,Pizza,Vegetarian,1,15.99,Card,15.99
+2026-03-28,ORD-01196,Pizza,Hawaiian,1,17.99,Cash,17.99
+2026-03-28,ORD-01196,Pizza,Margherita,2,14.99,Cash,29.98
+2026-03-28,ORD-01196,Drinks,Water,1,1.99,Cash,1.99
+2026-03-28,ORD-01197,Drinks,Sprite,1,2.99,Cash,2.99
+2026-03-28,ORD-01197,Sides,Mozzarella Sticks,1,9.99,Cash,9.99
+2026-03-28,ORD-01197,Sides,Caesar Salad,1,8.99,Cash,8.99
+2026-03-28,ORD-01198,Pizza,Vegetarian,1,15.99,Card,15.99
+2026-03-28,ORD-01199,Pizza,BBQ Chicken,1,18.99,Debit,18.99
+2026-03-28,ORD-01200,Drinks,Coffee,1,3.49,Debit,3.49
+2026-03-28,ORD-01200,Desserts,Ice Cream,1,5.99,Debit,5.99
+2026-03-28,ORD-01200,Drinks,Coke,1,2.99,Debit,2.99
+2026-03-28,ORD-01201,Pizza,Meat Lovers,1,19.99,Card,19.99
+2026-03-28,ORD-01201,Pizza,Pepperoni,1,16.99,Card,16.99
+2026-03-28,ORD-01201,Sides,Chicken Wings,1,12.99,Card,12.99
+2026-03-28,ORD-01202,Pizza,Meat Lovers,1,19.99,Card,19.99
+2026-03-28,ORD-01202,Pizza,Margherita,1,14.99,Card,14.99
+2026-03-28,ORD-01203,Sides,Caesar Salad,1,8.99,Card,8.99
+2026-03-29,ORD-01204,Drinks,Sprite,1,2.99,Card,2.99
+2026-03-29,ORD-01204,Drinks,Water,1,1.99,Card,1.99
+2026-03-29,ORD-01205,Drinks,Water,1,1.99,Card,1.99
+2026-03-29,ORD-01205,Pizza,BBQ Chicken,1,18.99,Card,18.99
+2026-03-29,ORD-01206,Pizza,Meat Lovers,1,19.99,Card,19.99
+2026-03-29,ORD-01207,Pizza,Hawaiian,2,17.99,Card,35.98
+2026-03-29,ORD-01208,Drinks,Coke,1,2.99,Card,2.99
+2026-03-29,ORD-01208,Pizza,Pepperoni,1,16.99,Card,16.99
+2026-03-29,ORD-01209,Desserts,Tiramisu,1,7.99,Cash,7.99
+2026-03-29,ORD-01209,Drinks,Sprite,1,2.99,Cash,2.99
+2026-03-29,ORD-01210,Pizza,Pepperoni,1,16.99,Debit,16.99
+2026-03-29,ORD-01210,Drinks,Coffee,1,3.49,Debit,3.49
+2026-03-29,ORD-01211,Pizza,BBQ Chicken,1,18.99,Card,18.99
+2026-03-29,ORD-01211,Drinks,Coke,1,2.99,Card,2.99
+2026-03-29,ORD-01211,Drinks,Water,1,1.99,Card,1.99
+2026-03-29,ORD-01212,Pizza,Hawaiian,2,17.99,Debit,35.98
+2026-03-29,ORD-01212,Drinks,Water,1,1.99,Debit,1.99
+2026-03-29,ORD-01213,Pizza,Hawaiian,2,17.99,Debit,35.98
+2026-03-29,ORD-01214,Drinks,Coke,1,2.99,Debit,2.99
+2026-03-29,ORD-01214,Pizza,Pepperoni,1,16.99,Debit,16.99
+2026-03-29,ORD-01215,Sides,Chicken Wings,1,12.99,Card,12.99
+2026-03-29,ORD-01215,Desserts,Tiramisu,1,7.99,Card,7.99
+2026-03-29,ORD-01216,Sides,Chicken Wings,1,12.99,Card,12.99
+2026-03-29,ORD-01216,Pizza,Meat Lovers,1,19.99,Card,19.99
+2026-03-29,ORD-01217,Pizza,BBQ Chicken,1,18.99,Card,18.99
+2026-03-29,ORD-01218,Pizza,Meat Lovers,1,19.99,Card,19.99
+2026-03-29,ORD-01218,Sides,Chicken Wings,1,12.99,Card,12.99
+2026-03-29,ORD-01219,Pizza,Margherita,1,14.99,Card,14.99
+2026-03-29,ORD-01220,Drinks,Coke,1,2.99,Card,2.99
+2026-03-29,ORD-01220,Pizza,BBQ Chicken,1,18.99,Card,18.99
+2026-03-29,ORD-01221,Pizza,Hawaiian,1,17.99,Debit,17.99
+2026-03-29,ORD-01221,Sides,Garlic Bread,1,6.99,Debit,6.99
+2026-03-29,ORD-01221,Pizza,Margherita,1,14.99,Debit,14.99
+2026-03-29,ORD-01222,Desserts,Ice Cream,1,5.99,Cash,5.99
+2026-03-29,ORD-01222,Sides,Garlic Bread,1,6.99,Cash,6.99
+2026-03-29,ORD-01223,Pizza,Margherita,1,14.99,Cash,14.99
+2026-03-29,ORD-01223,Drinks,Coffee,1,3.49,Cash,3.49
+2026-03-29,ORD-01224,Sides,Garlic Bread,1,6.99,Card,6.99
+2026-03-29,ORD-01224,Pizza,Hawaiian,1,17.99,Card,17.99
+2026-03-29,ORD-01225,Drinks,Water,1,1.99,Cash,1.99
+2026-03-29,ORD-01226,Pizza,BBQ Chicken,1,18.99,Card,18.99
+2026-03-29,ORD-01227,Pizza,BBQ Chicken,1,18.99,Card,18.99
+2026-03-29,ORD-01228,Pizza,Pepperoni,1,16.99,Card,16.99
+2026-03-29,ORD-01228,Drinks,Coffee,1,3.49,Card,3.49
+2026-03-29,ORD-01228,Pizza,Vegetarian,1,15.99,Card,15.99
+2026-03-29,ORD-01229,Drinks,Sprite,1,2.99,Card,2.99
+2026-03-29,ORD-01229,Drinks,Coffee,1,3.49,Card,3.49
+2026-03-29,ORD-01230,Pizza,Pepperoni,1,16.99,Cash,16.99
+2026-03-29,ORD-01230,Pizza,BBQ Chicken,1,18.99,Cash,18.99
+2026-03-29,ORD-01231,Pizza,Vegetarian,1,15.99,Card,15.99
+2026-03-29,ORD-01231,Pizza,Hawaiian,1,17.99,Card,17.99
+2026-03-29,ORD-01232,Desserts,Tiramisu,1,7.99,Card,7.99
+2026-03-29,ORD-01232,Drinks,Sprite,1,2.99,Card,2.99
+2026-03-29,ORD-01232,Pizza,BBQ Chicken,1,18.99,Card,18.99
+2026-03-29,ORD-01233,Drinks,Sprite,1,2.99,Cash,2.99
+2026-03-29,ORD-01234,Pizza,Vegetarian,1,15.99,Card,15.99
+2026-03-29,ORD-01235,Sides,Garlic Bread,1,6.99,Debit,6.99
+2026-03-29,ORD-01235,Drinks,Sprite,1,2.99,Debit,2.99
+2026-03-29,ORD-01236,Pizza,Vegetarian,1,15.99,Card,15.99
+2026-03-29,ORD-01236,Sides,Chicken Wings,1,12.99,Card,12.99
+2026-03-29,ORD-01237,Pizza,Vegetarian,1,15.99,Card,15.99
+2026-03-29,ORD-01238,Pizza,Vegetarian,1,15.99,Card,15.99
+2026-03-29,ORD-01239,Pizza,Margherita,1,14.99,Card,14.99
+2026-03-29,ORD-01240,Pizza,BBQ Chicken,1,18.99,Cash,18.99
+2026-03-29,ORD-01240,Pizza,Meat Lovers,1,19.99,Cash,19.99
+2026-03-29,ORD-01241,Sides,Chicken Wings,1,12.99,Cash,12.99
+2026-03-29,ORD-01241,Pizza,Hawaiian,1,17.99,Cash,17.99
+2026-03-29,ORD-01242,Sides,Garlic Bread,1,6.99,Card,6.99
+2026-03-29,ORD-01243,Sides,Mozzarella Sticks,1,9.99,Card,9.99
+2026-03-29,ORD-01244,Pizza,Pepperoni,1,16.99,Card,16.99
+2026-03-29,ORD-01244,Sides,Garlic Bread,1,6.99,Card,6.99
+2026-03-29,ORD-01244,Sides,Mozzarella Sticks,1,9.99,Card,9.99
+2026-03-30,ORD-01245,Sides,Garlic Bread,1,6.99,Debit,6.99
+2026-03-30,ORD-01246,Pizza,Pepperoni,1,16.99,Cash,16.99
+2026-03-30,ORD-01246,Drinks,Sprite,1,2.99,Cash,2.99
+2026-03-30,ORD-01247,Sides,Mozzarella Sticks,1,9.99,Cash,9.99
+2026-03-30,ORD-01248,Pizza,Meat Lovers,1,19.99,Card,19.99
+2026-03-30,ORD-01249,Pizza,BBQ Chicken,1,18.99,Debit,18.99
+2026-03-30,ORD-01249,Pizza,Pepperoni,1,16.99,Debit,16.99
+2026-03-30,ORD-01250,Pizza,BBQ Chicken,1,18.99,Card,18.99
+2026-03-30,ORD-01250,Pizza,Pepperoni,1,16.99,Card,16.99
+2026-03-30,ORD-01251,Sides,Caesar Salad,1,8.99,Debit,8.99
+2026-03-30,ORD-01252,Pizza,Margherita,1,14.99,Card,14.99
+2026-03-30,ORD-01252,Pizza,Hawaiian,1,17.99,Card,17.99
+2026-03-30,ORD-01253,Pizza,Hawaiian,1,17.99,Card,17.99
+2026-03-30,ORD-01254,Drinks,Coffee,1,3.49,Card,3.49
+2026-03-30,ORD-01254,Pizza,Margherita,1,14.99,Card,14.99
+2026-03-30,ORD-01255,Sides,Garlic Bread,1,6.99,Card,6.99
+2026-03-30,ORD-01255,Pizza,Vegetarian,1,15.99,Card,15.99
+2026-03-30,ORD-01255,Pizza,Margherita,1,14.99,Card,14.99
+2026-03-30,ORD-01256,Sides,Mozzarella Sticks,1,9.99,Card,9.99
+2026-03-30,ORD-01256,Pizza,BBQ Chicken,1,18.99,Card,18.99
+2026-03-30,ORD-01257,Pizza,BBQ Chicken,1,18.99,Debit,18.99
+2026-03-30,ORD-01257,Sides,Chicken Wings,1,12.99,Debit,12.99
+2026-03-30,ORD-01258,Pizza,Vegetarian,1,15.99,Card,15.99
+2026-03-30,ORD-01258,Pizza,Pepperoni,1,16.99,Card,16.99
+2026-03-30,ORD-01259,Drinks,Coffee,1,3.49,Card,3.49
+2026-03-30,ORD-01260,Drinks,Coffee,1,3.49,Card,3.49
+2026-03-30,ORD-01261,Desserts,Cheesecake,1,7.99,Card,7.99
+2026-03-30,ORD-01261,Sides,Chicken Wings,1,12.99,Card,12.99
+2026-03-30,ORD-01261,Pizza,Vegetarian,1,15.99,Card,15.99
+2026-03-30,ORD-01262,Desserts,Tiramisu,1,7.99,Card,7.99
+2026-03-30,ORD-01263,Pizza,Meat Lovers,1,19.99,Cash,19.99
+2026-03-30,ORD-01263,Drinks,Coke,1,2.99,Cash,2.99
+2026-03-30,ORD-01263,Pizza,Hawaiian,1,17.99,Cash,17.99
+2026-03-30,ORD-01263,Pizza,Margherita,1,14.99,Cash,14.99
+2026-03-30,ORD-01264,Desserts,Cheesecake,1,7.99,Cash,7.99
+2026-03-30,ORD-01264,Pizza,Vegetarian,1,15.99,Cash,15.99
+2026-03-30,ORD-01265,Pizza,Hawaiian,1,17.99,Debit,17.99
+2026-03-30,ORD-01265,Pizza,Meat Lovers,1,19.99,Debit,19.99
+2026-03-30,ORD-01266,Pizza,Hawaiian,1,17.99,Cash,17.99
+2026-03-31,ORD-01267,Pizza,Hawaiian,1,17.99,Card,17.99
+2026-03-31,ORD-01267,Pizza,Pepperoni,1,16.99,Card,16.99
+2026-03-31,ORD-01267,Drinks,Water,1,1.99,Card,1.99
+2026-03-31,ORD-01268,Drinks,Coffee,1,3.49,Card,3.49
+2026-03-31,ORD-01268,Pizza,Meat Lovers,1,19.99,Card,19.99
+2026-03-31,ORD-01268,Drinks,Coke,1,2.99,Card,2.99
+2026-03-31,ORD-01269,Pizza,Hawaiian,1,17.99,Card,17.99
+2026-03-31,ORD-01270,Sides,Garlic Bread,1,6.99,Card,6.99
+2026-03-31,ORD-01271,Sides,Mozzarella Sticks,1,9.99,Cash,9.99
+2026-03-31,ORD-01272,Pizza,Hawaiian,1,17.99,Card,17.99
+2026-03-31,ORD-01272,Pizza,Margherita,1,14.99,Card,14.99
+2026-03-31,ORD-01272,Pizza,BBQ Chicken,1,18.99,Card,18.99
+2026-03-31,ORD-01272,Desserts,Tiramisu,1,7.99,Card,7.99
+2026-03-31,ORD-01273,Pizza,Pepperoni,1,16.99,Card,16.99
+2026-03-31,ORD-01273,Desserts,Cheesecake,1,7.99,Card,7.99
+2026-03-31,ORD-01274,Drinks,Coke,1,2.99,Debit,2.99
+2026-03-31,ORD-01274,Drinks,Sprite,1,2.99,Debit,2.99
+2026-03-31,ORD-01275,Pizza,BBQ Chicken,1,18.99,Card,18.99
+2026-03-31,ORD-01276,Pizza,BBQ Chicken,1,18.99,Debit,18.99
+2026-03-31,ORD-01276,Pizza,Hawaiian,1,17.99,Debit,17.99
+2026-03-31,ORD-01276,Pizza,Margherita,1,14.99,Debit,14.99
+2026-03-31,ORD-01277,Sides,Garlic Bread,1,6.99,Debit,6.99
+2026-03-31,ORD-01277,Pizza,BBQ Chicken,1,18.99,Debit,18.99
+2026-03-31,ORD-01278,Pizza,Vegetarian,1,15.99,Card,15.99
+2026-03-31,ORD-01279,Drinks,Coffee,1,3.49,Cash,3.49
+2026-03-31,ORD-01280,Pizza,Vegetarian,1,15.99,Card,15.99
+2026-03-31,ORD-01281,Pizza,Margherita,1,14.99,Cash,14.99
+2026-03-31,ORD-01281,Pizza,Meat Lovers,1,19.99,Cash,19.99
+2026-03-31,ORD-01281,Drinks,Coffee,1,3.49,Cash,3.49
+2026-03-31,ORD-01282,Pizza,BBQ Chicken,1,18.99,Card,18.99
+2026-03-31,ORD-01283,Pizza,Hawaiian,1,17.99,Card,17.99
+2026-03-31,ORD-01284,Drinks,Coke,1,2.99,Cash,2.99
+2026-03-31,ORD-01284,Pizza,Hawaiian,1,17.99,Cash,17.99
+2026-03-31,ORD-01285,Pizza,Pepperoni,1,16.99,Card,16.99
+2026-03-31,ORD-01286,Drinks,Sprite,2,2.99,Debit,5.98
+2026-04-01,ORD-01287,Pizza,Margherita,1,14.99,Card,14.99
+2026-04-01,ORD-01288,Drinks,Coke,1,2.99,Card,2.99
+2026-04-01,ORD-01289,Sides,Caesar Salad,1,8.99,Debit,8.99
+2026-04-01,ORD-01289,Pizza,Hawaiian,1,17.99,Debit,17.99
+2026-04-01,ORD-01290,Pizza,Margherita,1,14.99,Card,14.99
+2026-04-01,ORD-01291,Drinks,Coffee,1,3.49,Card,3.49
+2026-04-01,ORD-01291,Pizza,Vegetarian,1,15.99,Card,15.99
+2026-04-01,ORD-01292,Pizza,BBQ Chicken,1,18.99,Card,18.99
+2026-04-01,ORD-01292,Sides,Garlic Bread,1,6.99,Card,6.99
+2026-04-01,ORD-01293,Pizza,Margherita,1,14.99,Card,14.99
+2026-04-01,ORD-01294,Drinks,Coke,1,2.99,Card,2.99
+2026-04-01,ORD-01295,Drinks,Coffee,1,3.49,Card,3.49
+2026-04-01,ORD-01295,Pizza,Vegetarian,1,15.99,Card,15.99
+2026-04-01,ORD-01296,Desserts,Ice Cream,1,5.99,Cash,5.99
+2026-04-01,ORD-01297,Sides,Mozzarella Sticks,1,9.99,Card,9.99
+2026-04-01,ORD-01297,Sides,Garlic Bread,1,6.99,Card,6.99
+2026-04-01,ORD-01298,Pizza,Hawaiian,1,17.99,Card,17.99
+2026-04-01,ORD-01298,Desserts,Tiramisu,1,7.99,Card,7.99
+2026-04-01,ORD-01298,Pizza,Meat Lovers,1,19.99,Card,19.99
+2026-04-01,ORD-01299,Drinks,Water,1,1.99,Cash,1.99
+2026-04-01,ORD-01299,Drinks,Sprite,1,2.99,Cash,2.99
+2026-04-01,ORD-01300,Pizza,Pepperoni,1,16.99,Card,16.99
+2026-04-01,ORD-01300,Drinks,Sprite,1,2.99,Card,2.99
+2026-04-01,ORD-01301,Pizza,Margherita,1,14.99,Debit,14.99
+2026-04-01,ORD-01301,Drinks,Coke,1,2.99,Debit,2.99
+2026-04-01,ORD-01302,Desserts,Ice Cream,1,5.99,Debit,5.99
+2026-04-01,ORD-01302,Drinks,Sprite,1,2.99,Debit,2.99
+2026-04-01,ORD-01303,Pizza,Vegetarian,1,15.99,Card,15.99
+2026-04-01,ORD-01304,Sides,Garlic Bread,1,6.99,Card,6.99
+2026-04-01,ORD-01305,Pizza,Pepperoni,2,16.99,Cash,33.98
+2026-04-01,ORD-01306,Pizza,BBQ Chicken,1,18.99,Card,18.99
+2026-04-01,ORD-01306,Drinks,Water,1,1.99,Card,1.99
+2026-04-01,ORD-01307,Pizza,BBQ Chicken,1,18.99,Debit,18.99
+2026-04-01,ORD-01307,Sides,Mozzarella Sticks,1,9.99,Debit,9.99
+2026-04-01,ORD-01308,Pizza,Hawaiian,1,17.99,Card,17.99
+2026-04-01,ORD-01308,Pizza,Pepperoni,1,16.99,Card,16.99
+2026-04-01,ORD-01309,Sides,Mozzarella Sticks,1,9.99,Card,9.99
+2026-04-01,ORD-01309,Drinks,Sprite,1,2.99,Card,2.99
+2026-04-01,ORD-01310,Drinks,Water,1,1.99,Card,1.99
+2026-04-01,ORD-01310,Pizza,BBQ Chicken,1,18.99,Card,18.99
+2026-04-01,ORD-01311,Pizza,Margherita,1,14.99,Cash,14.99
+2026-04-01,ORD-01311,Sides,Caesar Salad,1,8.99,Cash,8.99
+2026-04-01,ORD-01311,Pizza,Pepperoni,1,16.99,Cash,16.99
+2026-04-01,ORD-01312,Drinks,Coffee,1,3.49,Cash,3.49
+2026-04-02,ORD-01313,Drinks,Sprite,1,2.99,Cash,2.99
+2026-04-02,ORD-01313,Pizza,Hawaiian,1,17.99,Cash,17.99
+2026-04-02,ORD-01314,Drinks,Water,1,1.99,Cash,1.99
+2026-04-02,ORD-01314,Pizza,BBQ Chicken,1,18.99,Cash,18.99
+2026-04-02,ORD-01315,Sides,Chicken Wings,1,12.99,Debit,12.99
+2026-04-02,ORD-01316,Pizza,Pepperoni,1,16.99,Card,16.99
+2026-04-02,ORD-01316,Pizza,Meat Lovers,1,19.99,Card,19.99
+2026-04-02,ORD-01316,Pizza,Hawaiian,1,17.99,Card,17.99
+2026-04-02,ORD-01317,Pizza,Vegetarian,1,15.99,Card,15.99
+2026-04-02,ORD-01318,Desserts,Ice Cream,1,5.99,Cash,5.99
+2026-04-02,ORD-01319,Sides,Garlic Bread,1,6.99,Cash,6.99
+2026-04-02,ORD-01319,Drinks,Sprite,1,2.99,Cash,2.99
+2026-04-02,ORD-01320,Drinks,Water,1,1.99,Card,1.99
+2026-04-02,ORD-01321,Pizza,Pepperoni,1,16.99,Debit,16.99
+2026-04-02,ORD-01321,Pizza,BBQ Chicken,1,18.99,Debit,18.99
+2026-04-02,ORD-01321,Drinks,Water,1,1.99,Debit,1.99
+2026-04-02,ORD-01322,Pizza,Margherita,1,14.99,Card,14.99
+2026-04-02,ORD-01322,Pizza,BBQ Chicken,1,18.99,Card,18.99
+2026-04-02,ORD-01323,Pizza,Hawaiian,1,17.99,Card,17.99
+2026-04-02,ORD-01324,Sides,Garlic Bread,1,6.99,Card,6.99
+2026-04-02,ORD-01325,Sides,Mozzarella Sticks,1,9.99,Debit,9.99
+2026-04-02,ORD-01326,Pizza,Hawaiian,1,17.99,Card,17.99
+2026-04-02,ORD-01326,Pizza,Vegetarian,1,15.99,Card,15.99
+2026-04-02,ORD-01327,Sides,Garlic Bread,1,6.99,Card,6.99
+2026-04-02,ORD-01327,Pizza,Meat Lovers,1,19.99,Card,19.99
+2026-04-02,ORD-01327,Pizza,Margherita,1,14.99,Card,14.99
+2026-04-02,ORD-01327,Drinks,Coffee,1,3.49,Card,3.49
+2026-04-02,ORD-01328,Drinks,Sprite,1,2.99,Card,2.99
+2026-04-02,ORD-01328,Pizza,Hawaiian,2,17.99,Card,35.98
+2026-04-02,ORD-01329,Drinks,Coffee,1,3.49,Card,3.49
+2026-04-02,ORD-01329,Sides,Mozzarella Sticks,1,9.99,Card,9.99
+2026-04-02,ORD-01330,Pizza,BBQ Chicken,2,18.99,Card,37.98
+2026-04-02,ORD-01330,Pizza,Vegetarian,1,15.99,Card,15.99
+2026-04-02,ORD-01331,Pizza,BBQ Chicken,1,18.99,Debit,18.99
+2026-04-02,ORD-01331,Pizza,Vegetarian,1,15.99,Debit,15.99
+2026-04-02,ORD-01332,Drinks,Sprite,1,2.99,Card,2.99
+2026-04-02,ORD-01332,Pizza,BBQ Chicken,1,18.99,Card,18.99
+2026-04-02,ORD-01333,Pizza,Margherita,1,14.99,Card,14.99
+2026-04-02,ORD-01333,Pizza,Meat Lovers,1,19.99,Card,19.99
+2026-04-02,ORD-01334,Pizza,BBQ Chicken,1,18.99,Card,18.99
+2026-04-02,ORD-01334,Pizza,Hawaiian,1,17.99,Card,17.99
+2026-04-02,ORD-01335,Sides,Mozzarella Sticks,1,9.99,Card,9.99
+2026-04-02,ORD-01335,Drinks,Coke,1,2.99,Card,2.99
+2026-04-02,ORD-01335,Drinks,Water,1,1.99,Card,1.99
+2026-04-02,ORD-01336,Drinks,Coke,1,2.99,Debit,2.99
+2026-04-02,ORD-01337,Pizza,BBQ Chicken,1,18.99,Cash,18.99
+2026-04-02,ORD-01338,Pizza,Margherita,1,14.99,Cash,14.99
+2026-04-02,ORD-01339,Pizza,Meat Lovers,1,19.99,Card,19.99
+2026-04-02,ORD-01339,Pizza,Vegetarian,1,15.99,Card,15.99
+2026-04-02,ORD-01340,Pizza,Vegetarian,1,15.99,Card,15.99
+2026-04-02,ORD-01340,Sides,Garlic Bread,1,6.99,Card,6.99
+2026-04-02,ORD-01340,Sides,Mozzarella Sticks,1,9.99,Card,9.99
+2026-04-02,ORD-01341,Pizza,Pepperoni,1,16.99,Card,16.99
+2026-04-02,ORD-01341,Desserts,Cheesecake,1,7.99,Card,7.99
+2026-04-02,ORD-01342,Pizza,Margherita,1,14.99,Card,14.99
+2026-04-02,ORD-01343,Sides,Caesar Salad,1,8.99,Card,8.99
+2026-04-03,ORD-01344,Drinks,Coke,1,2.99,Card,2.99
+2026-04-03,ORD-01345,Pizza,Margherita,1,14.99,Debit,14.99
+2026-04-03,ORD-01345,Pizza,Pepperoni,1,16.99,Debit,16.99
+2026-04-03,ORD-01345,Pizza,Hawaiian,1,17.99,Debit,17.99
+2026-04-03,ORD-01346,Desserts,Tiramisu,1,7.99,Card,7.99
+2026-04-03,ORD-01346,Desserts,Cheesecake,1,7.99,Card,7.99
+2026-04-03,ORD-01347,Pizza,Vegetarian,2,15.99,Card,31.98
+2026-04-03,ORD-01347,Sides,Garlic Bread,1,6.99,Card,6.99
+2026-04-03,ORD-01348,Pizza,Pepperoni,1,16.99,Card,16.99
+2026-04-03,ORD-01349,Drinks,Coffee,1,3.49,Debit,3.49
+2026-04-03,ORD-01350,Drinks,Water,1,1.99,Card,1.99
+2026-04-03,ORD-01351,Pizza,Margherita,1,14.99,Card,14.99
+2026-04-03,ORD-01352,Pizza,BBQ Chicken,1,18.99,Cash,18.99
+2026-04-03,ORD-01353,Pizza,Pepperoni,1,16.99,Card,16.99
+2026-04-03,ORD-01353,Sides,Mozzarella Sticks,1,9.99,Card,9.99
+2026-04-03,ORD-01354,Desserts,Cheesecake,1,7.99,Card,7.99
+2026-04-03,ORD-01354,Pizza,Hawaiian,1,17.99,Card,17.99
+2026-04-03,ORD-01355,Sides,Chicken Wings,1,12.99,Card,12.99
+2026-04-03,ORD-01355,Pizza,BBQ Chicken,1,18.99,Card,18.99
+2026-04-03,ORD-01356,Pizza,Margherita,1,14.99,Card,14.99
+2026-04-03,ORD-01356,Pizza,Meat Lovers,1,19.99,Card,19.99
+2026-04-03,ORD-01357,Pizza,Margherita,1,14.99,Card,14.99
+2026-04-03,ORD-01357,Pizza,Hawaiian,1,17.99,Card,17.99
+2026-04-03,ORD-01357,Pizza,Pepperoni,1,16.99,Card,16.99
+2026-04-03,ORD-01358,Sides,Mozzarella Sticks,1,9.99,Cash,9.99
+2026-04-03,ORD-01359,Sides,Mozzarella Sticks,1,9.99,Card,9.99
+2026-04-03,ORD-01360,Sides,Chicken Wings,1,12.99,Debit,12.99
+2026-04-03,ORD-01360,Pizza,Hawaiian,1,17.99,Debit,17.99
+2026-04-03,ORD-01361,Drinks,Coke,1,2.99,Card,2.99
+2026-04-03,ORD-01361,Drinks,Sprite,1,2.99,Card,2.99
+2026-04-03,ORD-01361,Pizza,Hawaiian,1,17.99,Card,17.99
+2026-04-03,ORD-01362,Drinks,Sprite,1,2.99,Cash,2.99
+2026-04-03,ORD-01363,Pizza,BBQ Chicken,1,18.99,Debit,18.99
+2026-04-03,ORD-01364,Pizza,BBQ Chicken,1,18.99,Card,18.99
+2026-04-03,ORD-01364,Pizza,Margherita,1,14.99,Card,14.99
+2026-04-03,ORD-01365,Pizza,Hawaiian,1,17.99,Card,17.99
+2026-04-03,ORD-01365,Sides,Mozzarella Sticks,1,9.99,Card,9.99
+2026-04-03,ORD-01365,Pizza,BBQ Chicken,1,18.99,Card,18.99
+2026-04-03,ORD-01366,Pizza,Hawaiian,1,17.99,Cash,17.99
+2026-04-03,ORD-01367,Drinks,Sprite,1,2.99,Card,2.99
+2026-04-03,ORD-01367,Sides,Chicken Wings,1,12.99,Card,12.99
+2026-04-03,ORD-01368,Desserts,Tiramisu,1,7.99,Card,7.99
+2026-04-03,ORD-01368,Pizza,BBQ Chicken,1,18.99,Card,18.99
+2026-04-03,ORD-01369,Pizza,Pepperoni,1,16.99,Card,16.99
+2026-04-03,ORD-01369,Pizza,BBQ Chicken,1,18.99,Card,18.99
+2026-04-03,ORD-01370,Drinks,Sprite,1,2.99,Card,2.99
+2026-04-03,ORD-01370,Drinks,Coffee,1,3.49,Card,3.49
+2026-04-03,ORD-01371,Pizza,Meat Lovers,1,19.99,Card,19.99
+2026-04-03,ORD-01371,Pizza,Hawaiian,1,17.99,Card,17.99
+2026-04-03,ORD-01372,Pizza,Pepperoni,1,16.99,Card,16.99
+2026-04-03,ORD-01373,Sides,Chicken Wings,1,12.99,Cash,12.99
+2026-04-03,ORD-01373,Pizza,Pepperoni,1,16.99,Cash,16.99
+2026-04-03,ORD-01374,Pizza,BBQ Chicken,1,18.99,Card,18.99
+2026-04-03,ORD-01374,Drinks,Coke,1,2.99,Card,2.99
+2026-04-03,ORD-01375,Pizza,Meat Lovers,1,19.99,Card,19.99
+2026-04-03,ORD-01375,Pizza,Pepperoni,2,16.99,Card,33.98
+2026-04-03,ORD-01375,Pizza,Hawaiian,1,17.99,Card,17.99
+2026-04-03,ORD-01376,Pizza,Pepperoni,2,16.99,Card,33.98
+2026-04-03,ORD-01377,Pizza,Vegetarian,1,15.99,Card,15.99
+2026-04-03,ORD-01377,Pizza,Pepperoni,1,16.99,Card,16.99
+2026-04-03,ORD-01377,Sides,Garlic Bread,1,6.99,Card,6.99
+2026-04-03,ORD-01378,Drinks,Coffee,1,3.49,Debit,3.49
+2026-04-03,ORD-01378,Sides,Chicken Wings,1,12.99,Debit,12.99
+2026-04-03,ORD-01379,Drinks,Coke,2,2.99,Card,5.98
+2026-04-03,ORD-01379,Pizza,Meat Lovers,1,19.99,Card,19.99
+2026-04-03,ORD-01380,Drinks,Coke,1,2.99,Cash,2.99
+2026-04-03,ORD-01380,Pizza,BBQ Chicken,1,18.99,Cash,18.99
+2026-04-03,ORD-01380,Sides,Chicken Wings,2,12.99,Cash,25.98
+2026-04-03,ORD-01381,Pizza,Meat Lovers,1,19.99,Cash,19.99
+2026-04-03,ORD-01382,Sides,Chicken Wings,1,12.99,Card,12.99
+2026-04-03,ORD-01382,Drinks,Sprite,1,2.99,Card,2.99
+2026-04-03,ORD-01382,Pizza,Meat Lovers,1,19.99,Card,19.99
+2026-04-03,ORD-01383,Pizza,Meat Lovers,1,19.99,Card,19.99
+2026-04-03,ORD-01384,Drinks,Sprite,1,2.99,Cash,2.99
+2026-04-03,ORD-01385,Pizza,Vegetarian,1,15.99,Card,15.99
+2026-04-03,ORD-01385,Drinks,Coke,1,2.99,Card,2.99
+2026-04-03,ORD-01386,Pizza,BBQ Chicken,1,18.99,Card,18.99
+2026-04-03,ORD-01386,Desserts,Cheesecake,1,7.99,Card,7.99
+2026-04-03,ORD-01387,Pizza,Hawaiian,1,17.99,Card,17.99
+2026-04-03,ORD-01387,Sides,Caesar Salad,1,8.99,Card,8.99
+2026-04-03,ORD-01388,Drinks,Coffee,1,3.49,Debit,3.49
+2026-04-03,ORD-01388,Sides,Mozzarella Sticks,1,9.99,Debit,9.99
+2026-04-03,ORD-01389,Pizza,Vegetarian,1,15.99,Card,15.99
+2026-04-03,ORD-01389,Desserts,Ice Cream,1,5.99,Card,5.99
+2026-04-03,ORD-01389,Sides,Caesar Salad,1,8.99,Card,8.99
+2026-04-03,ORD-01390,Pizza,Meat Lovers,1,19.99,Card,19.99
+2026-04-03,ORD-01391,Drinks,Coke,1,2.99,Card,2.99
+2026-04-03,ORD-01392,Drinks,Sprite,1,2.99,Cash,2.99
+2026-04-03,ORD-01392,Pizza,BBQ Chicken,1,18.99,Cash,18.99
+2026-04-03,ORD-01393,Sides,Caesar Salad,1,8.99,Card,8.99
+2026-04-03,ORD-01393,Sides,Chicken Wings,1,12.99,Card,12.99
+2026-04-04,ORD-01394,Sides,Caesar Salad,1,8.99,Debit,8.99
+2026-04-04,ORD-01394,Drinks,Coffee,1,3.49,Debit,3.49
+2026-04-04,ORD-01394,Sides,Chicken Wings,1,12.99,Debit,12.99
+2026-04-04,ORD-01395,Pizza,BBQ Chicken,1,18.99,Card,18.99
+2026-04-04,ORD-01395,Drinks,Sprite,1,2.99,Card,2.99
+2026-04-04,ORD-01396,Pizza,Vegetarian,1,15.99,Card,15.99
+2026-04-04,ORD-01396,Drinks,Coffee,1,3.49,Card,3.49
+2026-04-04,ORD-01396,Drinks,Coke,1,2.99,Card,2.99
+2026-04-04,ORD-01397,Sides,Chicken Wings,1,12.99,Card,12.99
+2026-04-04,ORD-01397,Sides,Mozzarella Sticks,2,9.99,Card,19.98
+2026-04-04,ORD-01397,Desserts,Cheesecake,1,7.99,Card,7.99
+2026-04-04,ORD-01398,Pizza,Pepperoni,1,16.99,Card,16.99
+2026-04-04,ORD-01399,Pizza,Hawaiian,1,17.99,Debit,17.99
+2026-04-04,ORD-01399,Drinks,Coke,1,2.99,Debit,2.99
+2026-04-04,ORD-01400,Drinks,Sprite,1,2.99,Card,2.99
+2026-04-04,ORD-01400,Desserts,Cheesecake,1,7.99,Card,7.99
+2026-04-04,ORD-01401,Pizza,BBQ Chicken,1,18.99,Card,18.99
+2026-04-04,ORD-01401,Sides,Chicken Wings,1,12.99,Card,12.99
+2026-04-04,ORD-01402,Pizza,Meat Lovers,1,19.99,Card,19.99
+2026-04-04,ORD-01402,Desserts,Ice Cream,1,5.99,Card,5.99
+2026-04-04,ORD-01403,Pizza,Hawaiian,1,17.99,Card,17.99
+2026-04-04,ORD-01403,Pizza,Margherita,1,14.99,Card,14.99
+2026-04-04,ORD-01404,Sides,Chicken Wings,2,12.99,Cash,25.98
+2026-04-04,ORD-01404,Sides,Garlic Bread,1,6.99,Cash,6.99
+2026-04-04,ORD-01405,Pizza,Margherita,1,14.99,Cash,14.99
+2026-04-04,ORD-01405,Pizza,Vegetarian,2,15.99,Cash,31.98
+2026-04-04,ORD-01406,Sides,Mozzarella Sticks,1,9.99,Card,9.99
+2026-04-04,ORD-01407,Pizza,Margherita,1,14.99,Card,14.99
+2026-04-04,ORD-01407,Sides,Garlic Bread,1,6.99,Card,6.99
+2026-04-04,ORD-01407,Sides,Chicken Wings,1,12.99,Card,12.99
+2026-04-04,ORD-01408,Pizza,Pepperoni,1,16.99,Card,16.99
+2026-04-04,ORD-01409,Pizza,Pepperoni,1,16.99,Card,16.99
+2026-04-04,ORD-01410,Pizza,Margherita,1,14.99,Debit,14.99
+2026-04-04,ORD-01410,Pizza,BBQ Chicken,1,18.99,Debit,18.99
+2026-04-04,ORD-01411,Pizza,Meat Lovers,1,19.99,Card,19.99
+2026-04-04,ORD-01412,Pizza,Vegetarian,1,15.99,Debit,15.99
+2026-04-04,ORD-01412,Pizza,Pepperoni,1,16.99,Debit,16.99
+2026-04-04,ORD-01413,Pizza,Margherita,1,14.99,Card,14.99
+2026-04-04,ORD-01413,Sides,Mozzarella Sticks,1,9.99,Card,9.99
+2026-04-04,ORD-01413,Pizza,BBQ Chicken,1,18.99,Card,18.99
+2026-04-04,ORD-01414,Drinks,Water,2,1.99,Card,3.98
+2026-04-04,ORD-01414,Drinks,Coffee,1,3.49,Card,3.49
+2026-04-04,ORD-01414,Pizza,Margherita,1,14.99,Card,14.99
+2026-04-04,ORD-01415,Drinks,Water,1,1.99,Card,1.99
+2026-04-04,ORD-01415,Sides,Chicken Wings,1,12.99,Card,12.99
+2026-04-04,ORD-01416,Desserts,Cheesecake,1,7.99,Debit,7.99
+2026-04-04,ORD-01416,Pizza,Margherita,1,14.99,Debit,14.99
+2026-04-04,ORD-01417,Pizza,Margherita,1,14.99,Card,14.99
+2026-04-04,ORD-01417,Pizza,Meat Lovers,1,19.99,Card,19.99
+2026-04-04,ORD-01417,Pizza,Vegetarian,1,15.99,Card,15.99
+2026-04-04,ORD-01418,Drinks,Sprite,1,2.99,Debit,2.99
+2026-04-04,ORD-01418,Pizza,Margherita,1,14.99,Debit,14.99
+2026-04-04,ORD-01418,Pizza,Vegetarian,1,15.99,Debit,15.99
+2026-04-04,ORD-01419,Drinks,Sprite,2,2.99,Debit,5.98
+2026-04-04,ORD-01420,Pizza,Hawaiian,1,17.99,Cash,17.99
+2026-04-04,ORD-01421,Sides,Garlic Bread,1,6.99,Card,6.99
+2026-04-04,ORD-01421,Sides,Chicken Wings,1,12.99,Card,12.99
+2026-04-04,ORD-01422,Drinks,Water,1,1.99,Card,1.99
+2026-04-04,ORD-01423,Sides,Mozzarella Sticks,1,9.99,Cash,9.99
+2026-04-04,ORD-01424,Sides,Garlic Bread,1,6.99,Card,6.99
+2026-04-04,ORD-01424,Drinks,Water,1,1.99,Card,1.99
+2026-04-04,ORD-01425,Sides,Garlic Bread,1,6.99,Card,6.99
+2026-04-04,ORD-01426,Pizza,BBQ Chicken,1,18.99,Debit,18.99
+2026-04-04,ORD-01426,Drinks,Water,1,1.99,Debit,1.99
+2026-04-04,ORD-01426,Drinks,Sprite,1,2.99,Debit,2.99
+2026-04-04,ORD-01426,Drinks,Coke,1,2.99,Debit,2.99
+2026-04-04,ORD-01427,Drinks,Sprite,1,2.99,Card,2.99
+2026-04-04,ORD-01428,Drinks,Sprite,1,2.99,Cash,2.99
+2026-04-04,ORD-01428,Drinks,Water,1,1.99,Cash,1.99
+2026-04-04,ORD-01428,Sides,Garlic Bread,1,6.99,Cash,6.99
+2026-04-04,ORD-01429,Pizza,Margherita,1,14.99,Card,14.99
+2026-04-04,ORD-01429,Drinks,Water,1,1.99,Card,1.99
+2026-04-04,ORD-01430,Pizza,Hawaiian,1,17.99,Card,17.99
+2026-04-04,ORD-01430,Pizza,Vegetarian,1,15.99,Card,15.99
+2026-04-04,ORD-01431,Sides,Garlic Bread,1,6.99,Cash,6.99
+2026-04-04,ORD-01431,Pizza,BBQ Chicken,1,18.99,Cash,18.99
+2026-04-04,ORD-01432,Drinks,Coke,1,2.99,Card,2.99
+2026-04-04,ORD-01432,Pizza,BBQ Chicken,2,18.99,Card,37.98
+2026-04-04,ORD-01432,Sides,Garlic Bread,1,6.99,Card,6.99
+2026-04-04,ORD-01433,Sides,Chicken Wings,1,12.99,Card,12.99
+2026-04-04,ORD-01433,Pizza,Meat Lovers,2,19.99,Card,39.98
+2026-04-04,ORD-01433,Sides,Caesar Salad,1,8.99,Card,8.99
+2026-04-04,ORD-01434,Drinks,Sprite,1,2.99,Card,2.99
+2026-04-04,ORD-01434,Pizza,Pepperoni,1,16.99,Card,16.99
+2026-04-04,ORD-01434,Pizza,Hawaiian,1,17.99,Card,17.99
+2026-04-04,ORD-01435,Drinks,Coffee,1,3.49,Debit,3.49
+2026-04-04,ORD-01435,Pizza,Vegetarian,1,15.99,Debit,15.99
+2026-04-04,ORD-01436,Pizza,Pepperoni,1,16.99,Card,16.99
+2026-04-04,ORD-01436,Pizza,Hawaiian,1,17.99,Card,17.99
+2026-04-04,ORD-01437,Pizza,Margherita,1,14.99,Debit,14.99
+2026-04-05,ORD-01438,Pizza,BBQ Chicken,1,18.99,Debit,18.99
+2026-04-05,ORD-01438,Drinks,Coffee,1,3.49,Debit,3.49
+2026-04-05,ORD-01439,Pizza,Vegetarian,1,15.99,Card,15.99
+2026-04-05,ORD-01439,Pizza,Pepperoni,1,16.99,Card,16.99
+2026-04-05,ORD-01440,Pizza,Vegetarian,1,15.99,Cash,15.99
+2026-04-05,ORD-01441,Sides,Caesar Salad,1,8.99,Card,8.99
+2026-04-05,ORD-01441,Drinks,Coke,1,2.99,Card,2.99
+2026-04-05,ORD-01442,Pizza,BBQ Chicken,1,18.99,Debit,18.99
+2026-04-05,ORD-01443,Pizza,Margherita,1,14.99,Card,14.99
+2026-04-05,ORD-01444,Sides,Garlic Bread,1,6.99,Debit,6.99
+2026-04-05,ORD-01444,Pizza,Margherita,1,14.99,Debit,14.99
+2026-04-05,ORD-01444,Sides,Caesar Salad,1,8.99,Debit,8.99
+2026-04-05,ORD-01445,Pizza,Margherita,1,14.99,Card,14.99
+2026-04-05,ORD-01446,Drinks,Coke,1,2.99,Cash,2.99
+2026-04-05,ORD-01446,Pizza,Meat Lovers,1,19.99,Cash,19.99
+2026-04-05,ORD-01446,Drinks,Coffee,1,3.49,Cash,3.49
+2026-04-05,ORD-01447,Drinks,Water,1,1.99,Card,1.99
+2026-04-05,ORD-01447,Pizza,Vegetarian,1,15.99,Card,15.99
+2026-04-05,ORD-01448,Sides,Chicken Wings,1,12.99,Card,12.99
+2026-04-05,ORD-01448,Pizza,BBQ Chicken,1,18.99,Card,18.99
+2026-04-05,ORD-01448,Sides,Caesar Salad,1,8.99,Card,8.99
+2026-04-05,ORD-01449,Desserts,Tiramisu,1,7.99,Card,7.99
+2026-04-05,ORD-01449,Sides,Garlic Bread,1,6.99,Card,6.99
+2026-04-05,ORD-01450,Drinks,Water,1,1.99,Card,1.99
+2026-04-05,ORD-01451,Sides,Caesar Salad,1,8.99,Card,8.99
+2026-04-05,ORD-01451,Desserts,Tiramisu,1,7.99,Card,7.99
+2026-04-05,ORD-01451,Pizza,Vegetarian,1,15.99,Card,15.99
+2026-04-05,ORD-01451,Pizza,Pepperoni,1,16.99,Card,16.99
+2026-04-05,ORD-01452,Sides,Chicken Wings,1,12.99,Card,12.99
+2026-04-05,ORD-01453,Sides,Mozzarella Sticks,1,9.99,Debit,9.99
+2026-04-05,ORD-01453,Pizza,Meat Lovers,1,19.99,Debit,19.99
+2026-04-05,ORD-01454,Pizza,Vegetarian,1,15.99,Card,15.99
+2026-04-05,ORD-01455,Pizza,Pepperoni,1,16.99,Card,16.99
+2026-04-05,ORD-01455,Drinks,Water,1,1.99,Card,1.99
+2026-04-05,ORD-01455,Desserts,Tiramisu,1,7.99,Card,7.99
+2026-04-05,ORD-01456,Pizza,Margherita,1,14.99,Card,14.99
+2026-04-05,ORD-01457,Pizza,Vegetarian,1,15.99,Card,15.99
+2026-04-05,ORD-01457,Desserts,Tiramisu,1,7.99,Card,7.99
+2026-04-05,ORD-01458,Sides,Chicken Wings,1,12.99,Cash,12.99
+2026-04-05,ORD-01458,Sides,Garlic Bread,1,6.99,Cash,6.99
+2026-04-05,ORD-01459,Sides,Chicken Wings,1,12.99,Card,12.99
+2026-04-05,ORD-01459,Drinks,Coke,1,2.99,Card,2.99
+2026-04-05,ORD-01459,Drinks,Water,1,1.99,Card,1.99
+2026-04-05,ORD-01460,Pizza,Pepperoni,1,16.99,Debit,16.99
+2026-04-05,ORD-01461,Sides,Garlic Bread,1,6.99,Debit,6.99
+2026-04-05,ORD-01462,Sides,Caesar Salad,1,8.99,Debit,8.99
+2026-04-05,ORD-01463,Pizza,Pepperoni,1,16.99,Card,16.99
+2026-04-05,ORD-01464,Pizza,BBQ Chicken,1,18.99,Card,18.99
+2026-04-05,ORD-01464,Sides,Mozzarella Sticks,1,9.99,Card,9.99
+2026-04-05,ORD-01464,Drinks,Coffee,1,3.49,Card,3.49
+2026-04-05,ORD-01465,Sides,Garlic Bread,1,6.99,Debit,6.99
+2026-04-05,ORD-01466,Desserts,Tiramisu,1,7.99,Debit,7.99
+2026-04-05,ORD-01466,Pizza,Vegetarian,1,15.99,Debit,15.99
+2026-04-05,ORD-01466,Sides,Caesar Salad,1,8.99,Debit,8.99
+2026-04-05,ORD-01467,Pizza,BBQ Chicken,1,18.99,Card,18.99
+2026-04-06,ORD-01468,Sides,Garlic Bread,1,6.99,Card,6.99
+2026-04-06,ORD-01469,Sides,Chicken Wings,1,12.99,Card,12.99
+2026-04-06,ORD-01469,Pizza,Vegetarian,1,15.99,Card,15.99
+2026-04-06,ORD-01470,Sides,Mozzarella Sticks,1,9.99,Card,9.99
+2026-04-06,ORD-01470,Pizza,Meat Lovers,1,19.99,Card,19.99
+2026-04-06,ORD-01470,Pizza,Margherita,1,14.99,Card,14.99
+2026-04-06,ORD-01471,Sides,Caesar Salad,1,8.99,Card,8.99
+2026-04-06,ORD-01471,Pizza,BBQ Chicken,1,18.99,Card,18.99
+2026-04-06,ORD-01472,Pizza,BBQ Chicken,1,18.99,Card,18.99
+2026-04-06,ORD-01472,Sides,Mozzarella Sticks,1,9.99,Card,9.99
+2026-04-06,ORD-01473,Desserts,Cheesecake,1,7.99,Card,7.99
+2026-04-06,ORD-01473,Drinks,Sprite,1,2.99,Card,2.99
+2026-04-06,ORD-01474,Drinks,Sprite,1,2.99,Card,2.99
+2026-04-06,ORD-01475,Sides,Mozzarella Sticks,1,9.99,Card,9.99
+2026-04-06,ORD-01476,Desserts,Tiramisu,1,7.99,Debit,7.99
+2026-04-06,ORD-01476,Sides,Garlic Bread,1,6.99,Debit,6.99
+2026-04-06,ORD-01477,Pizza,Pepperoni,1,16.99,Card,16.99
+2026-04-06,ORD-01478,Sides,Garlic Bread,1,6.99,Cash,6.99
+2026-04-06,ORD-01478,Desserts,Cheesecake,1,7.99,Cash,7.99
+2026-04-06,ORD-01479,Drinks,Coke,1,2.99,Card,2.99
+2026-04-06,ORD-01479,Sides,Mozzarella Sticks,1,9.99,Card,9.99
+2026-04-06,ORD-01480,Desserts,Ice Cream,1,5.99,Cash,5.99
+2026-04-06,ORD-01480,Pizza,Hawaiian,1,17.99,Cash,17.99
+2026-04-06,ORD-01481,Sides,Chicken Wings,1,12.99,Debit,12.99
+2026-04-06,ORD-01481,Pizza,BBQ Chicken,1,18.99,Debit,18.99
+2026-04-06,ORD-01482,Sides,Garlic Bread,2,6.99,Card,13.98
+2026-04-06,ORD-01482,Pizza,Margherita,1,14.99,Card,14.99
+2026-04-06,ORD-01482,Pizza,Hawaiian,1,17.99,Card,17.99
+2026-04-06,ORD-01483,Sides,Mozzarella Sticks,1,9.99,Card,9.99
+2026-04-06,ORD-01483,Drinks,Sprite,1,2.99,Card,2.99
+2026-04-06,ORD-01484,Sides,Caesar Salad,1,8.99,Card,8.99
+2026-04-06,ORD-01485,Drinks,Coffee,1,3.49,Card,3.49
+2026-04-06,ORD-01485,Pizza,Hawaiian,1,17.99,Card,17.99
+2026-04-06,ORD-01486,Pizza,Meat Lovers,1,19.99,Card,19.99
+2026-04-06,ORD-01486,Sides,Caesar Salad,1,8.99,Card,8.99
+2026-04-06,ORD-01487,Pizza,Hawaiian,1,17.99,Card,17.99
+2026-04-06,ORD-01487,Pizza,Pepperoni,1,16.99,Card,16.99
+2026-04-06,ORD-01487,Pizza,Margherita,1,14.99,Card,14.99
+2026-04-06,ORD-01488,Drinks,Sprite,1,2.99,Card,2.99
+2026-04-06,ORD-01488,Pizza,BBQ Chicken,1,18.99,Card,18.99
+2026-04-06,ORD-01488,Sides,Chicken Wings,1,12.99,Card,12.99
+2026-04-06,ORD-01488,Pizza,Vegetarian,1,15.99,Card,15.99
+2026-04-06,ORD-01489,Drinks,Coffee,1,3.49,Card,3.49
+2026-04-06,ORD-01490,Sides,Mozzarella Sticks,1,9.99,Card,9.99
+2026-04-06,ORD-01491,Pizza,Meat Lovers,1,19.99,Card,19.99
+2026-04-06,ORD-01491,Drinks,Coke,1,2.99,Card,2.99
+2026-04-06,ORD-01491,Pizza,BBQ Chicken,1,18.99,Card,18.99
+2026-04-06,ORD-01492,Pizza,Vegetarian,1,15.99,Cash,15.99
+2026-04-06,ORD-01493,Sides,Caesar Salad,1,8.99,Card,8.99
+2026-04-06,ORD-01494,Pizza,Meat Lovers,1,19.99,Cash,19.99
+2026-04-06,ORD-01494,Pizza,BBQ Chicken,1,18.99,Cash,18.99
+2026-04-07,ORD-01495,Pizza,BBQ Chicken,1,18.99,Debit,18.99
+2026-04-07,ORD-01495,Pizza,Pepperoni,1,16.99,Debit,16.99
+2026-04-07,ORD-01496,Drinks,Coke,1,2.99,Debit,2.99
+2026-04-07,ORD-01496,Pizza,Pepperoni,1,16.99,Debit,16.99
+2026-04-07,ORD-01497,Pizza,Pepperoni,1,16.99,Card,16.99
+2026-04-07,ORD-01498,Sides,Mozzarella Sticks,1,9.99,Cash,9.99
+2026-04-07,ORD-01498,Pizza,Vegetarian,1,15.99,Cash,15.99
+2026-04-07,ORD-01499,Pizza,Meat Lovers,1,19.99,Card,19.99
+2026-04-07,ORD-01500,Pizza,Vegetarian,1,15.99,Debit,15.99
+2026-04-07,ORD-01501,Pizza,Vegetarian,1,15.99,Cash,15.99
+2026-04-07,ORD-01501,Drinks,Water,1,1.99,Cash,1.99
+2026-04-07,ORD-01501,Drinks,Coke,1,2.99,Cash,2.99
+2026-04-07,ORD-01502,Pizza,Hawaiian,1,17.99,Debit,17.99
+2026-04-07,ORD-01503,Pizza,Margherita,3,14.99,Card,44.97
+2026-04-07,ORD-01503,Drinks,Sprite,1,2.99,Card,2.99
+2026-04-07,ORD-01504,Pizza,Margherita,1,14.99,Card,14.99
+2026-04-07,ORD-01504,Sides,Chicken Wings,1,12.99,Card,12.99
+2026-04-07,ORD-01505,Pizza,BBQ Chicken,1,18.99,Cash,18.99
+2026-04-07,ORD-01505,Pizza,Vegetarian,1,15.99,Cash,15.99
+2026-04-07,ORD-01506,Drinks,Coffee,1,3.49,Cash,3.49
+2026-04-07,ORD-01506,Sides,Mozzarella Sticks,1,9.99,Cash,9.99
+2026-04-07,ORD-01507,Sides,Mozzarella Sticks,1,9.99,Debit,9.99
+2026-04-07,ORD-01508,Pizza,Vegetarian,1,15.99,Cash,15.99
+2026-04-07,ORD-01509,Pizza,Pepperoni,1,16.99,Card,16.99
+2026-04-07,ORD-01510,Drinks,Water,1,1.99,Cash,1.99
+2026-04-07,ORD-01510,Drinks,Sprite,1,2.99,Cash,2.99
+2026-04-07,ORD-01511,Pizza,Pepperoni,1,16.99,Card,16.99
+2026-04-07,ORD-01511,Pizza,Vegetarian,1,15.99,Card,15.99
+2026-04-07,ORD-01511,Sides,Chicken Wings,1,12.99,Card,12.99
+2026-04-07,ORD-01512,Pizza,Vegetarian,1,15.99,Cash,15.99
+2026-04-07,ORD-01513,Pizza,Hawaiian,1,17.99,Card,17.99
+2026-04-07,ORD-01514,Sides,Caesar Salad,1,8.99,Card,8.99
+2026-04-07,ORD-01515,Drinks,Coke,1,2.99,Card,2.99
+2026-04-07,ORD-01515,Pizza,BBQ Chicken,1,18.99,Card,18.99
+2026-04-08,ORD-01516,Pizza,BBQ Chicken,1,18.99,Debit,18.99
+2026-04-08,ORD-01516,Sides,Garlic Bread,2,6.99,Debit,13.98
+2026-04-08,ORD-01516,Pizza,Meat Lovers,1,19.99,Debit,19.99
+2026-04-08,ORD-01517,Pizza,Hawaiian,1,17.99,Card,17.99
+2026-04-08,ORD-01518,Pizza,Meat Lovers,1,19.99,Cash,19.99
+2026-04-08,ORD-01518,Drinks,Water,1,1.99,Cash,1.99
+2026-04-08,ORD-01518,Pizza,BBQ Chicken,1,18.99,Cash,18.99
+2026-04-08,ORD-01519,Sides,Garlic Bread,1,6.99,Cash,6.99
+2026-04-08,ORD-01520,Pizza,Margherita,1,14.99,Card,14.99
+2026-04-08,ORD-01520,Pizza,Vegetarian,1,15.99,Card,15.99
+2026-04-08,ORD-01521,Pizza,BBQ Chicken,1,18.99,Card,18.99
+2026-04-08,ORD-01522,Drinks,Sprite,1,2.99,Card,2.99
+2026-04-08,ORD-01522,Sides,Caesar Salad,1,8.99,Card,8.99
+2026-04-08,ORD-01523,Pizza,Vegetarian,1,15.99,Card,15.99
+2026-04-08,ORD-01523,Pizza,Hawaiian,1,17.99,Card,17.99
+2026-04-08,ORD-01523,Drinks,Water,1,1.99,Card,1.99
+2026-04-08,ORD-01524,Pizza,Hawaiian,1,17.99,Card,17.99
+2026-04-08,ORD-01525,Sides,Chicken Wings,1,12.99,Cash,12.99
+2026-04-08,ORD-01525,Desserts,Cheesecake,1,7.99,Cash,7.99
+2026-04-08,ORD-01526,Drinks,Coffee,1,3.49,Debit,3.49
+2026-04-08,ORD-01527,Pizza,Margherita,1,14.99,Card,14.99
+2026-04-08,ORD-01527,Pizza,Vegetarian,1,15.99,Card,15.99
+2026-04-08,ORD-01528,Pizza,Vegetarian,1,15.99,Debit,15.99
+2026-04-08,ORD-01529,Pizza,Vegetarian,1,15.99,Card,15.99
+2026-04-08,ORD-01529,Drinks,Coke,1,2.99,Card,2.99
+2026-04-08,ORD-01530,Pizza,Pepperoni,1,16.99,Debit,16.99
+2026-04-08,ORD-01530,Pizza,BBQ Chicken,1,18.99,Debit,18.99
+2026-04-08,ORD-01531,Pizza,Meat Lovers,1,19.99,Debit,19.99
+2026-04-08,ORD-01532,Pizza,Vegetarian,1,15.99,Debit,15.99
+2026-04-08,ORD-01532,Sides,Caesar Salad,1,8.99,Debit,8.99
+2026-04-08,ORD-01533,Pizza,Margherita,1,14.99,Card,14.99
+2026-04-08,ORD-01533,Sides,Caesar Salad,1,8.99,Card,8.99
+2026-04-08,ORD-01534,Pizza,Meat Lovers,1,19.99,Debit,19.99
+2026-04-08,ORD-01535,Drinks,Water,1,1.99,Cash,1.99
+2026-04-08,ORD-01536,Drinks,Coffee,1,3.49,Card,3.49
+2026-04-08,ORD-01536,Pizza,Hawaiian,1,17.99,Card,17.99
+2026-04-08,ORD-01537,Pizza,Pepperoni,1,16.99,Card,16.99
+2026-04-08,ORD-01538,Pizza,Meat Lovers,1,19.99,Cash,19.99
+2026-04-08,ORD-01539,Sides,Mozzarella Sticks,1,9.99,Card,9.99
+2026-04-08,ORD-01539,Pizza,Meat Lovers,1,19.99,Card,19.99
+2026-04-08,ORD-01539,Pizza,Vegetarian,1,15.99,Card,15.99
+2026-04-08,ORD-01540,Sides,Chicken Wings,1,12.99,Cash,12.99
+2026-04-08,ORD-01540,Pizza,Margherita,1,14.99,Cash,14.99
+2026-04-08,ORD-01541,Sides,Caesar Salad,1,8.99,Card,8.99
+2026-04-08,ORD-01541,Pizza,Meat Lovers,1,19.99,Card,19.99
+2026-04-08,ORD-01541,Pizza,Pepperoni,1,16.99,Card,16.99
+2026-04-08,ORD-01542,Sides,Caesar Salad,1,8.99,Cash,8.99
+2026-04-08,ORD-01542,Pizza,Hawaiian,1,17.99,Cash,17.99
+2026-04-08,ORD-01542,Drinks,Coffee,1,3.49,Cash,3.49
+2026-04-08,ORD-01543,Drinks,Coke,1,2.99,Debit,2.99
+2026-04-08,ORD-01543,Sides,Caesar Salad,1,8.99,Debit,8.99
+2026-04-09,ORD-01544,Pizza,Vegetarian,1,15.99,Debit,15.99
+2026-04-09,ORD-01545,Sides,Chicken Wings,1,12.99,Cash,12.99
+2026-04-09,ORD-01545,Drinks,Coke,1,2.99,Cash,2.99
+2026-04-09,ORD-01545,Pizza,Hawaiian,1,17.99,Cash,17.99
+2026-04-09,ORD-01545,Desserts,Cheesecake,1,7.99,Cash,7.99
+2026-04-09,ORD-01546,Pizza,Vegetarian,1,15.99,Card,15.99
+2026-04-09,ORD-01547,Pizza,BBQ Chicken,1,18.99,Card,18.99
+2026-04-09,ORD-01548,Pizza,Vegetarian,1,15.99,Card,15.99
+2026-04-09,ORD-01549,Pizza,Margherita,1,14.99,Cash,14.99
+2026-04-09,ORD-01549,Drinks,Water,1,1.99,Cash,1.99
+2026-04-09,ORD-01550,Drinks,Coffee,1,3.49,Cash,3.49
+2026-04-09,ORD-01550,Pizza,Hawaiian,1,17.99,Cash,17.99
+2026-04-09,ORD-01551,Drinks,Sprite,1,2.99,Card,2.99
+2026-04-09,ORD-01551,Sides,Garlic Bread,1,6.99,Card,6.99
+2026-04-09,ORD-01551,Pizza,Vegetarian,1,15.99,Card,15.99
+2026-04-09,ORD-01552,Drinks,Coke,1,2.99,Card,2.99
+2026-04-09,ORD-01552,Pizza,BBQ Chicken,1,18.99,Card,18.99
+2026-04-09,ORD-01553,Pizza,BBQ Chicken,1,18.99,Card,18.99
+2026-04-09,ORD-01554,Pizza,BBQ Chicken,1,18.99,Cash,18.99
+2026-04-09,ORD-01555,Pizza,Meat Lovers,2,19.99,Debit,39.98
+2026-04-09,ORD-01556,Pizza,Hawaiian,1,17.99,Card,17.99
+2026-04-09,ORD-01557,Pizza,Meat Lovers,1,19.99,Cash,19.99
+2026-04-09,ORD-01557,Desserts,Tiramisu,1,7.99,Cash,7.99
+2026-04-09,ORD-01558,Sides,Garlic Bread,2,6.99,Card,13.98
+2026-04-09,ORD-01558,Pizza,BBQ Chicken,1,18.99,Card,18.99
+2026-04-09,ORD-01559,Sides,Garlic Bread,1,6.99,Card,6.99
+2026-04-09,ORD-01559,Pizza,Margherita,1,14.99,Card,14.99
+2026-04-09,ORD-01559,Pizza,Vegetarian,1,15.99,Card,15.99
+2026-04-09,ORD-01560,Pizza,Margherita,1,14.99,Card,14.99
+2026-04-09,ORD-01560,Sides,Mozzarella Sticks,1,9.99,Card,9.99
+2026-04-09,ORD-01561,Sides,Garlic Bread,1,6.99,Card,6.99
+2026-04-09,ORD-01561,Drinks,Sprite,1,2.99,Card,2.99
+2026-04-09,ORD-01561,Pizza,Vegetarian,1,15.99,Card,15.99
+2026-04-09,ORD-01562,Pizza,Hawaiian,2,17.99,Debit,35.98
+2026-04-09,ORD-01563,Sides,Mozzarella Sticks,1,9.99,Cash,9.99
+2026-04-09,ORD-01564,Pizza,BBQ Chicken,1,18.99,Card,18.99
+2026-04-09,ORD-01565,Pizza,Meat Lovers,1,19.99,Debit,19.99
+2026-04-09,ORD-01565,Drinks,Coffee,1,3.49,Debit,3.49
+2026-04-09,ORD-01565,Drinks,Water,1,1.99,Debit,1.99
+2026-04-09,ORD-01566,Sides,Mozzarella Sticks,1,9.99,Card,9.99
+2026-04-09,ORD-01566,Pizza,Hawaiian,1,17.99,Card,17.99
+2026-04-09,ORD-01566,Pizza,Pepperoni,1,16.99,Card,16.99
+2026-04-09,ORD-01567,Pizza,Pepperoni,2,16.99,Cash,33.98
+2026-04-09,ORD-01567,Pizza,Meat Lovers,1,19.99,Cash,19.99
+2026-04-09,ORD-01568,Drinks,Coke,1,2.99,Cash,2.99
+2026-04-09,ORD-01569,Pizza,Margherita,1,14.99,Cash,14.99
+2026-04-09,ORD-01570,Sides,Garlic Bread,1,6.99,Card,6.99
+2026-04-09,ORD-01570,Pizza,BBQ Chicken,1,18.99,Card,18.99
+2026-04-09,ORD-01571,Pizza,BBQ Chicken,1,18.99,Card,18.99
+2026-04-09,ORD-01571,Pizza,Meat Lovers,1,19.99,Card,19.99
+2026-04-09,ORD-01571,Pizza,Hawaiian,1,17.99,Card,17.99
+2026-04-09,ORD-01571,Desserts,Cheesecake,1,7.99,Card,7.99
+2026-04-10,ORD-01572,Pizza,BBQ Chicken,1,18.99,Card,18.99
+2026-04-10,ORD-01573,Pizza,Hawaiian,1,17.99,Cash,17.99
+2026-04-10,ORD-01573,Drinks,Coffee,1,3.49,Cash,3.49
+2026-04-10,ORD-01573,Sides,Mozzarella Sticks,1,9.99,Cash,9.99
+2026-04-10,ORD-01574,Pizza,Meat Lovers,1,19.99,Card,19.99
+2026-04-10,ORD-01574,Sides,Garlic Bread,1,6.99,Card,6.99
+2026-04-10,ORD-01574,Desserts,Cheesecake,1,7.99,Card,7.99
+2026-04-10,ORD-01574,Pizza,Hawaiian,1,17.99,Card,17.99
+2026-04-10,ORD-01575,Pizza,Hawaiian,1,17.99,Cash,17.99
+2026-04-10,ORD-01575,Pizza,Pepperoni,1,16.99,Cash,16.99
+2026-04-10,ORD-01575,Drinks,Coke,1,2.99,Cash,2.99
+2026-04-10,ORD-01576,Drinks,Coffee,1,3.49,Debit,3.49
+2026-04-10,ORD-01576,Pizza,Meat Lovers,1,19.99,Debit,19.99
+2026-04-10,ORD-01576,Sides,Mozzarella Sticks,1,9.99,Debit,9.99
+2026-04-10,ORD-01577,Pizza,Vegetarian,2,15.99,Card,31.98
+2026-04-10,ORD-01578,Pizza,Vegetarian,1,15.99,Card,15.99
+2026-04-10,ORD-01579,Pizza,BBQ Chicken,1,18.99,Card,18.99
+2026-04-10,ORD-01580,Pizza,Hawaiian,1,17.99,Card,17.99
+2026-04-10,ORD-01580,Sides,Caesar Salad,1,8.99,Card,8.99
+2026-04-10,ORD-01580,Pizza,BBQ Chicken,1,18.99,Card,18.99
+2026-04-10,ORD-01581,Desserts,Cheesecake,1,7.99,Debit,7.99
+2026-04-10,ORD-01581,Pizza,Meat Lovers,1,19.99,Debit,19.99
+2026-04-10,ORD-01582,Drinks,Coke,1,2.99,Card,2.99
+2026-04-10,ORD-01582,Sides,Garlic Bread,1,6.99,Card,6.99
+2026-04-10,ORD-01583,Sides,Garlic Bread,1,6.99,Card,6.99
+2026-04-10,ORD-01584,Sides,Chicken Wings,1,12.99,Debit,12.99
+2026-04-10,ORD-01584,Pizza,BBQ Chicken,1,18.99,Debit,18.99
+2026-04-10,ORD-01585,Sides,Garlic Bread,1,6.99,Card,6.99
+2026-04-10,ORD-01585,Pizza,Pepperoni,1,16.99,Card,16.99
+2026-04-10,ORD-01586,Sides,Caesar Salad,1,8.99,Card,8.99
+2026-04-10,ORD-01586,Drinks,Water,1,1.99,Card,1.99
+2026-04-10,ORD-01586,Sides,Chicken Wings,1,12.99,Card,12.99
+2026-04-10,ORD-01587,Pizza,Hawaiian,1,17.99,Cash,17.99
+2026-04-10,ORD-01588,Sides,Garlic Bread,1,6.99,Cash,6.99
+2026-04-10,ORD-01588,Drinks,Coffee,1,3.49,Cash,3.49
+2026-04-10,ORD-01588,Pizza,BBQ Chicken,1,18.99,Cash,18.99
+2026-04-10,ORD-01589,Desserts,Cheesecake,1,7.99,Debit,7.99
+2026-04-10,ORD-01589,Pizza,Margherita,1,14.99,Debit,14.99
+2026-04-10,ORD-01590,Pizza,Vegetarian,1,15.99,Card,15.99
+2026-04-10,ORD-01590,Drinks,Sprite,1,2.99,Card,2.99
+2026-04-10,ORD-01590,Pizza,BBQ Chicken,1,18.99,Card,18.99
+2026-04-10,ORD-01591,Pizza,Vegetarian,1,15.99,Card,15.99
+2026-04-10,ORD-01592,Pizza,Meat Lovers,2,19.99,Card,39.98
+2026-04-10,ORD-01592,Pizza,Hawaiian,1,17.99,Card,17.99
+2026-04-10,ORD-01593,Sides,Caesar Salad,1,8.99,Debit,8.99
+2026-04-10,ORD-01594,Sides,Garlic Bread,2,6.99,Card,13.98
+2026-04-10,ORD-01595,Drinks,Coffee,1,3.49,Debit,3.49
+2026-04-10,ORD-01595,Sides,Garlic Bread,1,6.99,Debit,6.99
+2026-04-10,ORD-01596,Desserts,Tiramisu,1,7.99,Card,7.99
+2026-04-10,ORD-01597,Pizza,BBQ Chicken,1,18.99,Card,18.99
+2026-04-10,ORD-01597,Sides,Garlic Bread,1,6.99,Card,6.99
+2026-04-10,ORD-01598,Pizza,Margherita,1,14.99,Debit,14.99
+2026-04-10,ORD-01598,Drinks,Water,1,1.99,Debit,1.99
+2026-04-10,ORD-01598,Pizza,BBQ Chicken,1,18.99,Debit,18.99
+2026-04-10,ORD-01599,Drinks,Coke,1,2.99,Debit,2.99
+2026-04-10,ORD-01599,Pizza,BBQ Chicken,1,18.99,Debit,18.99
+2026-04-10,ORD-01600,Pizza,Pepperoni,1,16.99,Card,16.99
+2026-04-10,ORD-01600,Sides,Garlic Bread,1,6.99,Card,6.99
+2026-04-10,ORD-01601,Pizza,Vegetarian,1,15.99,Card,15.99
+2026-04-10,ORD-01601,Drinks,Coffee,1,3.49,Card,3.49
+2026-04-10,ORD-01601,Drinks,Water,1,1.99,Card,1.99
+2026-04-10,ORD-01602,Pizza,Vegetarian,1,15.99,Card,15.99
+2026-04-10,ORD-01603,Drinks,Water,1,1.99,Cash,1.99
+2026-04-10,ORD-01603,Pizza,Pepperoni,1,16.99,Cash,16.99
+2026-04-10,ORD-01604,Sides,Caesar Salad,1,8.99,Card,8.99
+2026-04-10,ORD-01605,Sides,Caesar Salad,1,8.99,Cash,8.99
+2026-04-10,ORD-01606,Sides,Chicken Wings,1,12.99,Card,12.99
+2026-04-10,ORD-01606,Sides,Caesar Salad,1,8.99,Card,8.99
+2026-04-10,ORD-01606,Pizza,Meat Lovers,1,19.99,Card,19.99
+2026-04-10,ORD-01607,Desserts,Ice Cream,1,5.99,Debit,5.99
+2026-04-10,ORD-01607,Drinks,Coffee,1,3.49,Debit,3.49
+2026-04-10,ORD-01607,Pizza,Meat Lovers,1,19.99,Debit,19.99
+2026-04-10,ORD-01608,Drinks,Sprite,1,2.99,Card,2.99
+2026-04-10,ORD-01608,Sides,Mozzarella Sticks,1,9.99,Card,9.99
+2026-04-10,ORD-01608,Pizza,BBQ Chicken,1,18.99,Card,18.99
+2026-04-10,ORD-01609,Desserts,Cheesecake,1,7.99,Card,7.99
+2026-04-10,ORD-01609,Pizza,Pepperoni,1,16.99,Card,16.99
+2026-04-10,ORD-01609,Drinks,Sprite,1,2.99,Card,2.99
+2026-04-10,ORD-01610,Pizza,Vegetarian,1,15.99,Card,15.99
+2026-04-10,ORD-01610,Drinks,Coke,1,2.99,Card,2.99
+2026-04-10,ORD-01611,Drinks,Coke,1,2.99,Cash,2.99
+2026-04-10,ORD-01611,Pizza,Vegetarian,1,15.99,Cash,15.99
+2026-04-10,ORD-01611,Sides,Caesar Salad,1,8.99,Cash,8.99
+2026-04-10,ORD-01612,Pizza,Hawaiian,1,17.99,Card,17.99
+2026-04-10,ORD-01613,Drinks,Water,1,1.99,Card,1.99
+2026-04-10,ORD-01614,Pizza,BBQ Chicken,1,18.99,Card,18.99
+2026-04-10,ORD-01614,Sides,Garlic Bread,1,6.99,Card,6.99
+2026-04-10,ORD-01615,Pizza,Margherita,2,14.99,Card,29.98
+2026-04-10,ORD-01616,Sides,Garlic Bread,1,6.99,Card,6.99
+2026-04-10,ORD-01616,Pizza,Pepperoni,1,16.99,Card,16.99
+2026-04-10,ORD-01617,Sides,Garlic Bread,1,6.99,Cash,6.99
+2026-04-10,ORD-01617,Pizza,Meat Lovers,1,19.99,Cash,19.99
+2026-04-10,ORD-01618,Pizza,Meat Lovers,2,19.99,Card,39.98
+2026-04-10,ORD-01618,Drinks,Water,1,1.99,Card,1.99
+2026-04-10,ORD-01619,Pizza,Vegetarian,1,15.99,Card,15.99
+2026-04-10,ORD-01619,Pizza,Hawaiian,1,17.99,Card,17.99
+2026-04-10,ORD-01620,Pizza,Vegetarian,2,15.99,Cash,31.98
+2026-04-10,ORD-01620,Drinks,Coffee,1,3.49,Cash,3.49
+2026-04-10,ORD-01621,Pizza,Vegetarian,1,15.99,Card,15.99
+2026-04-10,ORD-01621,Sides,Mozzarella Sticks,1,9.99,Card,9.99
+2026-04-10,ORD-01622,Pizza,Meat Lovers,1,19.99,Cash,19.99
+2026-04-10,ORD-01623,Drinks,Sprite,1,2.99,Cash,2.99
+2026-04-10,ORD-01624,Pizza,Hawaiian,1,17.99,Card,17.99
+2026-04-10,ORD-01624,Drinks,Coke,1,2.99,Card,2.99
+2026-04-10,ORD-01625,Drinks,Coke,1,2.99,Debit,2.99
+2026-04-10,ORD-01625,Sides,Caesar Salad,1,8.99,Debit,8.99
+2026-04-10,ORD-01626,Pizza,Hawaiian,1,17.99,Cash,17.99
+2026-04-10,ORD-01626,Sides,Mozzarella Sticks,1,9.99,Cash,9.99
+2026-04-10,ORD-01627,Sides,Mozzarella Sticks,1,9.99,Card,9.99
+2026-04-10,ORD-01627,Drinks,Sprite,2,2.99,Card,5.98
+2026-04-10,ORD-01628,Pizza,Pepperoni,1,16.99,Cash,16.99
+2026-04-10,ORD-01628,Pizza,Hawaiian,1,17.99,Cash,17.99
+2026-04-10,ORD-01629,Drinks,Water,1,1.99,Card,1.99
+2026-04-10,ORD-01629,Pizza,Pepperoni,1,16.99,Card,16.99
+2026-04-10,ORD-01629,Pizza,Margherita,1,14.99,Card,14.99
+2026-04-10,ORD-01630,Pizza,Meat Lovers,2,19.99,Card,39.98
+2026-04-10,ORD-01631,Sides,Caesar Salad,1,8.99,Card,8.99
+2026-04-10,ORD-01631,Pizza,Hawaiian,1,17.99,Card,17.99
+2026-04-10,ORD-01631,Drinks,Sprite,1,2.99,Card,2.99
+2026-04-10,ORD-01632,Drinks,Sprite,1,2.99,Debit,2.99
+2026-04-10,ORD-01632,Pizza,Meat Lovers,1,19.99,Debit,19.99
+2026-04-10,ORD-01633,Sides,Mozzarella Sticks,1,9.99,Card,9.99
+2026-04-10,ORD-01634,Pizza,Vegetarian,1,15.99,Card,15.99
+2026-04-10,ORD-01634,Pizza,BBQ Chicken,1,18.99,Card,18.99
+2026-04-10,ORD-01635,Sides,Mozzarella Sticks,1,9.99,Cash,9.99
+2026-04-10,ORD-01636,Sides,Caesar Salad,1,8.99,Card,8.99
+2026-04-10,ORD-01636,Sides,Chicken Wings,1,12.99,Card,12.99
+2026-04-10,ORD-01637,Pizza,Vegetarian,3,15.99,Debit,47.97
+2026-04-10,ORD-01637,Pizza,BBQ Chicken,1,18.99,Debit,18.99
+2026-04-10,ORD-01638,Sides,Caesar Salad,1,8.99,Debit,8.99
+2026-04-10,ORD-01638,Pizza,Meat Lovers,1,19.99,Debit,19.99
+2026-04-11,ORD-01639,Drinks,Coke,1,2.99,Card,2.99
+2026-04-11,ORD-01639,Pizza,Meat Lovers,1,19.99,Card,19.99
+2026-04-11,ORD-01640,Pizza,Margherita,1,14.99,Card,14.99
+2026-04-11,ORD-01640,Pizza,Vegetarian,1,15.99,Card,15.99
+2026-04-11,ORD-01640,Pizza,BBQ Chicken,1,18.99,Card,18.99
+2026-04-11,ORD-01641,Sides,Garlic Bread,1,6.99,Card,6.99
+2026-04-11,ORD-01641,Sides,Chicken Wings,1,12.99,Card,12.99
+2026-04-11,ORD-01641,Pizza,Hawaiian,1,17.99,Card,17.99
+2026-04-11,ORD-01642,Pizza,Pepperoni,1,16.99,Card,16.99
+2026-04-11,ORD-01642,Drinks,Water,1,1.99,Card,1.99
+2026-04-11,ORD-01643,Pizza,BBQ Chicken,1,18.99,Card,18.99
+2026-04-11,ORD-01643,Pizza,Pepperoni,1,16.99,Card,16.99
+2026-04-11,ORD-01644,Drinks,Coffee,1,3.49,Cash,3.49
+2026-04-11,ORD-01644,Pizza,Meat Lovers,1,19.99,Cash,19.99
+2026-04-11,ORD-01645,Sides,Chicken Wings,1,12.99,Card,12.99
+2026-04-11,ORD-01645,Drinks,Water,1,1.99,Card,1.99
+2026-04-11,ORD-01646,Pizza,Hawaiian,1,17.99,Cash,17.99
+2026-04-11,ORD-01647,Pizza,Meat Lovers,1,19.99,Card,19.99
+2026-04-11,ORD-01647,Sides,Caesar Salad,1,8.99,Card,8.99
+2026-04-11,ORD-01647,Pizza,Vegetarian,1,15.99,Card,15.99
+2026-04-11,ORD-01648,Desserts,Ice Cream,1,5.99,Card,5.99
+2026-04-11,ORD-01648,Drinks,Coke,1,2.99,Card,2.99
+2026-04-11,ORD-01649,Pizza,Meat Lovers,1,19.99,Card,19.99
+2026-04-11,ORD-01649,Pizza,Vegetarian,1,15.99,Card,15.99
+2026-04-11,ORD-01649,Pizza,BBQ Chicken,1,18.99,Card,18.99
+2026-04-11,ORD-01650,Pizza,Hawaiian,1,17.99,Card,17.99
+2026-04-11,ORD-01650,Pizza,Pepperoni,1,16.99,Card,16.99
+2026-04-11,ORD-01651,Sides,Caesar Salad,1,8.99,Card,8.99
+2026-04-11,ORD-01652,Pizza,BBQ Chicken,1,18.99,Card,18.99
+2026-04-11,ORD-01652,Pizza,Margherita,1,14.99,Card,14.99
+2026-04-11,ORD-01653,Sides,Mozzarella Sticks,1,9.99,Card,9.99
+2026-04-11,ORD-01654,Pizza,Pepperoni,1,16.99,Card,16.99
+2026-04-11,ORD-01654,Drinks,Water,1,1.99,Card,1.99
+2026-04-11,ORD-01654,Pizza,Hawaiian,1,17.99,Card,17.99
+2026-04-11,ORD-01654,Pizza,Margherita,1,14.99,Card,14.99
+2026-04-11,ORD-01655,Pizza,Pepperoni,1,16.99,Card,16.99
+2026-04-11,ORD-01655,Drinks,Coffee,1,3.49,Card,3.49
+2026-04-11,ORD-01656,Pizza,BBQ Chicken,1,18.99,Debit,18.99
+2026-04-11,ORD-01657,Pizza,Hawaiian,1,17.99,Card,17.99
+2026-04-11,ORD-01657,Pizza,Pepperoni,1,16.99,Card,16.99
+2026-04-11,ORD-01657,Drinks,Sprite,1,2.99,Card,2.99
+2026-04-11,ORD-01658,Drinks,Sprite,1,2.99,Cash,2.99
+2026-04-11,ORD-01658,Pizza,Pepperoni,1,16.99,Cash,16.99
+2026-04-11,ORD-01659,Sides,Mozzarella Sticks,1,9.99,Debit,9.99
+2026-04-11,ORD-01659,Pizza,Meat Lovers,1,19.99,Debit,19.99
+2026-04-11,ORD-01660,Pizza,Meat Lovers,1,19.99,Debit,19.99
+2026-04-11,ORD-01661,Drinks,Sprite,1,2.99,Card,2.99
+2026-04-11,ORD-01662,Drinks,Coffee,1,3.49,Debit,3.49
+2026-04-11,ORD-01662,Pizza,Meat Lovers,1,19.99,Debit,19.99
+2026-04-11,ORD-01663,Pizza,BBQ Chicken,1,18.99,Card,18.99
+2026-04-11,ORD-01664,Drinks,Water,1,1.99,Card,1.99
+2026-04-11,ORD-01665,Pizza,Meat Lovers,1,19.99,Debit,19.99
+2026-04-11,ORD-01665,Sides,Caesar Salad,1,8.99,Debit,8.99
+2026-04-11,ORD-01666,Pizza,Pepperoni,1,16.99,Card,16.99
+2026-04-11,ORD-01666,Sides,Garlic Bread,1,6.99,Card,6.99
+2026-04-11,ORD-01667,Drinks,Coffee,1,3.49,Debit,3.49
+2026-04-11,ORD-01667,Pizza,Vegetarian,1,15.99,Debit,15.99
+2026-04-11,ORD-01667,Sides,Garlic Bread,1,6.99,Debit,6.99
+2026-04-11,ORD-01668,Sides,Mozzarella Sticks,1,9.99,Card,9.99
+2026-04-11,ORD-01669,Sides,Garlic Bread,2,6.99,Card,13.98
+2026-04-11,ORD-01669,Pizza,Meat Lovers,1,19.99,Card,19.99
+2026-04-11,ORD-01670,Pizza,Vegetarian,1,15.99,Debit,15.99
+2026-04-11,ORD-01670,Sides,Mozzarella Sticks,1,9.99,Debit,9.99
+2026-04-11,ORD-01671,Drinks,Coffee,2,3.49,Card,6.98
+2026-04-11,ORD-01671,Drinks,Coke,1,2.99,Card,2.99
+2026-04-11,ORD-01672,Pizza,BBQ Chicken,2,18.99,Card,37.98
+2026-04-11,ORD-01672,Drinks,Coffee,1,3.49,Card,3.49
+2026-04-11,ORD-01673,Pizza,BBQ Chicken,1,18.99,Card,18.99
+2026-04-11,ORD-01673,Sides,Mozzarella Sticks,1,9.99,Card,9.99
+2026-04-11,ORD-01673,Pizza,Pepperoni,1,16.99,Card,16.99
+2026-04-11,ORD-01674,Sides,Chicken Wings,1,12.99,Card,12.99
+2026-04-11,ORD-01674,Pizza,Pepperoni,1,16.99,Card,16.99
+2026-04-11,ORD-01675,Drinks,Water,1,1.99,Cash,1.99
+2026-04-11,ORD-01675,Pizza,Pepperoni,1,16.99,Cash,16.99
+2026-04-11,ORD-01676,Pizza,Hawaiian,1,17.99,Card,17.99
+2026-04-11,ORD-01677,Sides,Garlic Bread,1,6.99,Cash,6.99
+2026-04-11,ORD-01678,Desserts,Tiramisu,1,7.99,Card,7.99
+2026-04-11,ORD-01679,Pizza,Meat Lovers,1,19.99,Debit,19.99
+2026-04-11,ORD-01680,Desserts,Tiramisu,1,7.99,Card,7.99
+2026-04-11,ORD-01680,Pizza,Pepperoni,1,16.99,Card,16.99
+2026-04-11,ORD-01681,Pizza,Hawaiian,2,17.99,Debit,35.98
+2026-04-11,ORD-01682,Pizza,Margherita,1,14.99,Card,14.99
+2026-04-11,ORD-01682,Drinks,Coffee,1,3.49,Card,3.49
+2026-04-11,ORD-01683,Sides,Chicken Wings,1,12.99,Card,12.99
+2026-04-11,ORD-01684,Pizza,Margherita,1,14.99,Card,14.99
+2026-04-11,ORD-01684,Drinks,Coffee,1,3.49,Card,3.49
+2026-04-11,ORD-01685,Pizza,Margherita,1,14.99,Card,14.99
+2026-04-11,ORD-01686,Pizza,Margherita,1,14.99,Card,14.99
+2026-04-11,ORD-01687,Pizza,Margherita,1,14.99,Cash,14.99
+2026-04-11,ORD-01688,Pizza,Hawaiian,1,17.99,Cash,17.99
+2026-04-11,ORD-01688,Pizza,Margherita,1,14.99,Cash,14.99
+2026-04-11,ORD-01689,Sides,Garlic Bread,1,6.99,Debit,6.99
+2026-04-11,ORD-01689,Pizza,Margherita,1,14.99,Debit,14.99
+2026-04-11,ORD-01689,Pizza,Meat Lovers,1,19.99,Debit,19.99
+2026-04-11,ORD-01690,Sides,Garlic Bread,1,6.99,Card,6.99
+2026-04-11,ORD-01690,Drinks,Coke,1,2.99,Card,2.99
+2026-04-11,ORD-01690,Sides,Mozzarella Sticks,1,9.99,Card,9.99
+2026-04-11,ORD-01691,Drinks,Coffee,1,3.49,Debit,3.49
+2026-04-11,ORD-01691,Sides,Chicken Wings,1,12.99,Debit,12.99
+2026-04-11,ORD-01692,Sides,Caesar Salad,2,8.99,Card,17.98
+2026-04-11,ORD-01693,Drinks,Water,1,1.99,Cash,1.99
+2026-04-11,ORD-01693,Pizza,Vegetarian,1,15.99,Cash,15.99
+2026-04-11,ORD-01693,Pizza,Margherita,1,14.99,Cash,14.99
+2026-04-11,ORD-01693,Sides,Caesar Salad,1,8.99,Cash,8.99
+2026-04-11,ORD-01694,Pizza,Vegetarian,1,15.99,Card,15.99
+2026-04-11,ORD-01694,Pizza,BBQ Chicken,1,18.99,Card,18.99
+2026-04-12,ORD-01695,Pizza,Vegetarian,1,15.99,Card,15.99
+2026-04-12,ORD-01695,Drinks,Coffee,1,3.49,Card,3.49
+2026-04-12,ORD-01695,Pizza,Meat Lovers,1,19.99,Card,19.99
+2026-04-12,ORD-01695,Pizza,Margherita,1,14.99,Card,14.99
+2026-04-12,ORD-01696,Sides,Garlic Bread,1,6.99,Debit,6.99
+2026-04-12,ORD-01696,Pizza,Margherita,1,14.99,Debit,14.99
+2026-04-12,ORD-01697,Pizza,Margherita,1,14.99,Card,14.99
+2026-04-12,ORD-01697,Drinks,Coffee,1,3.49,Card,3.49
+2026-04-12,ORD-01698,Pizza,BBQ Chicken,1,18.99,Debit,18.99
+2026-04-12,ORD-01698,Drinks,Coke,1,2.99,Debit,2.99
+2026-04-12,ORD-01699,Pizza,Meat Lovers,1,19.99,Card,19.99
+2026-04-12,ORD-01700,Sides,Mozzarella Sticks,1,9.99,Cash,9.99
+2026-04-12,ORD-01701,Pizza,Vegetarian,2,15.99,Cash,31.98
+2026-04-12,ORD-01701,Pizza,Margherita,1,14.99,Cash,14.99
+2026-04-12,ORD-01702,Sides,Mozzarella Sticks,1,9.99,Card,9.99
+2026-04-12,ORD-01703,Pizza,Meat Lovers,1,19.99,Debit,19.99
+2026-04-12,ORD-01703,Pizza,Hawaiian,1,17.99,Debit,17.99
+2026-04-12,ORD-01704,Pizza,Margherita,1,14.99,Card,14.99
+2026-04-12,ORD-01704,Drinks,Water,1,1.99,Card,1.99
+2026-04-12,ORD-01705,Pizza,Margherita,1,14.99,Card,14.99
+2026-04-12,ORD-01705,Desserts,Cheesecake,1,7.99,Card,7.99
+2026-04-12,ORD-01705,Desserts,Ice Cream,1,5.99,Card,5.99
+2026-04-12,ORD-01706,Pizza,Margherita,1,14.99,Card,14.99
+2026-04-12,ORD-01706,Drinks,Water,1,1.99,Card,1.99
+2026-04-12,ORD-01706,Pizza,Vegetarian,1,15.99,Card,15.99
+2026-04-12,ORD-01706,Pizza,Pepperoni,1,16.99,Card,16.99
+2026-04-12,ORD-01707,Desserts,Ice Cream,1,5.99,Debit,5.99
+2026-04-12,ORD-01707,Sides,Caesar Salad,1,8.99,Debit,8.99
+2026-04-12,ORD-01708,Pizza,Pepperoni,1,16.99,Card,16.99
+2026-04-12,ORD-01708,Pizza,BBQ Chicken,1,18.99,Card,18.99
+2026-04-12,ORD-01708,Pizza,Hawaiian,1,17.99,Card,17.99
+2026-04-12,ORD-01709,Desserts,Tiramisu,1,7.99,Card,7.99
+2026-04-12,ORD-01710,Sides,Garlic Bread,1,6.99,Cash,6.99
+2026-04-12,ORD-01710,Drinks,Water,1,1.99,Cash,1.99
+2026-04-12,ORD-01711,Sides,Caesar Salad,1,8.99,Debit,8.99
+2026-04-12,ORD-01711,Pizza,Hawaiian,1,17.99,Debit,17.99
+2026-04-12,ORD-01712,Sides,Caesar Salad,1,8.99,Cash,8.99
+2026-04-12,ORD-01712,Pizza,BBQ Chicken,1,18.99,Cash,18.99
+2026-04-12,ORD-01713,Drinks,Sprite,1,2.99,Debit,2.99
+2026-04-12,ORD-01714,Sides,Garlic Bread,1,6.99,Card,6.99
+2026-04-12,ORD-01714,Pizza,Vegetarian,1,15.99,Card,15.99
+2026-04-13,ORD-01715,Sides,Caesar Salad,2,8.99,Card,17.98
+2026-04-13,ORD-01716,Sides,Garlic Bread,1,6.99,Card,6.99
+2026-04-13,ORD-01716,Pizza,Vegetarian,1,15.99,Card,15.99
+2026-04-13,ORD-01716,Desserts,Ice Cream,1,5.99,Card,5.99
+2026-04-13,ORD-01717,Pizza,BBQ Chicken,1,18.99,Card,18.99
+2026-04-13,ORD-01718,Drinks,Water,1,1.99,Card,1.99
+2026-04-13,ORD-01718,Pizza,Pepperoni,1,16.99,Card,16.99
+2026-04-13,ORD-01719,Pizza,BBQ Chicken,1,18.99,Card,18.99
+2026-04-13,ORD-01719,Pizza,Vegetarian,1,15.99,Card,15.99
+2026-04-13,ORD-01720,Drinks,Water,1,1.99,Card,1.99
+2026-04-13,ORD-01720,Drinks,Coke,1,2.99,Card,2.99
+2026-04-13,ORD-01720,Pizza,Margherita,1,14.99,Card,14.99
+2026-04-13,ORD-01721,Drinks,Coke,1,2.99,Card,2.99
+2026-04-13,ORD-01721,Pizza,Pepperoni,1,16.99,Card,16.99
+2026-04-13,ORD-01722,Pizza,Pepperoni,1,16.99,Debit,16.99
+2026-04-13,ORD-01722,Sides,Garlic Bread,1,6.99,Debit,6.99
+2026-04-13,ORD-01722,Drinks,Coke,1,2.99,Debit,2.99
+2026-04-13,ORD-01723,Pizza,Margherita,1,14.99,Debit,14.99
+2026-04-13,ORD-01724,Pizza,Hawaiian,2,17.99,Debit,35.98
+2026-04-13,ORD-01724,Pizza,Vegetarian,1,15.99,Debit,15.99
+2026-04-13,ORD-01725,Desserts,Ice Cream,1,5.99,Debit,5.99
+2026-04-13,ORD-01725,Drinks,Water,1,1.99,Debit,1.99
+2026-04-13,ORD-01726,Drinks,Sprite,1,2.99,Card,2.99
+2026-04-13,ORD-01727,Sides,Caesar Salad,1,8.99,Card,8.99
+2026-04-13,ORD-01727,Desserts,Cheesecake,1,7.99,Card,7.99
+2026-04-13,ORD-01728,Sides,Chicken Wings,1,12.99,Debit,12.99
+2026-04-13,ORD-01729,Drinks,Sprite,1,2.99,Card,2.99
+2026-04-13,ORD-01730,Sides,Caesar Salad,1,8.99,Card,8.99
+2026-04-13,ORD-01730,Drinks,Water,1,1.99,Card,1.99
+2026-04-13,ORD-01730,Pizza,Pepperoni,1,16.99,Card,16.99
+2026-04-13,ORD-01731,Drinks,Coke,2,2.99,Cash,5.98
+2026-04-13,ORD-01732,Pizza,Meat Lovers,2,19.99,Card,39.98
+2026-04-13,ORD-01732,Pizza,Margherita,1,14.99,Card,14.99
+2026-04-13,ORD-01733,Pizza,BBQ Chicken,1,18.99,Debit,18.99
+2026-04-13,ORD-01733,Pizza,Meat Lovers,1,19.99,Debit,19.99
+2026-04-13,ORD-01734,Drinks,Coke,1,2.99,Card,2.99
+2026-04-13,ORD-01735,Sides,Garlic Bread,1,6.99,Debit,6.99
+2026-04-13,ORD-01736,Desserts,Tiramisu,1,7.99,Debit,7.99
+2026-04-13,ORD-01736,Pizza,Margherita,1,14.99,Debit,14.99
+2026-04-13,ORD-01736,Pizza,BBQ Chicken,1,18.99,Debit,18.99
+2026-04-13,ORD-01737,Drinks,Coffee,1,3.49,Cash,3.49
+2026-04-13,ORD-01738,Pizza,Pepperoni,1,16.99,Card,16.99
+2026-04-13,ORD-01738,Desserts,Ice Cream,1,5.99,Card,5.99
+2026-04-13,ORD-01739,Drinks,Coffee,2,3.49,Card,6.98
+2026-04-13,ORD-01739,Pizza,Pepperoni,1,16.99,Card,16.99
+2026-04-13,ORD-01739,Pizza,BBQ Chicken,1,18.99,Card,18.99
+2026-04-13,ORD-01740,Drinks,Coke,1,2.99,Debit,2.99
+2026-04-14,ORD-01741,Pizza,Vegetarian,1,15.99,Card,15.99
+2026-04-14,ORD-01742,Sides,Caesar Salad,1,8.99,Card,8.99
+2026-04-14,ORD-01742,Desserts,Ice Cream,1,5.99,Card,5.99
+2026-04-14,ORD-01743,Sides,Mozzarella Sticks,1,9.99,Cash,9.99
+2026-04-14,ORD-01743,Pizza,Vegetarian,1,15.99,Cash,15.99
+2026-04-14,ORD-01744,Sides,Mozzarella Sticks,1,9.99,Cash,9.99
+2026-04-14,ORD-01744,Drinks,Coke,1,2.99,Cash,2.99
+2026-04-14,ORD-01744,Pizza,Pepperoni,1,16.99,Cash,16.99
+2026-04-14,ORD-01745,Sides,Mozzarella Sticks,1,9.99,Debit,9.99
+2026-04-14,ORD-01745,Drinks,Coke,1,2.99,Debit,2.99
+2026-04-14,ORD-01746,Pizza,Pepperoni,1,16.99,Card,16.99
+2026-04-14,ORD-01747,Pizza,Margherita,1,14.99,Cash,14.99
+2026-04-14,ORD-01747,Pizza,BBQ Chicken,1,18.99,Cash,18.99
+2026-04-14,ORD-01748,Pizza,Vegetarian,1,15.99,Cash,15.99
+2026-04-14,ORD-01749,Sides,Garlic Bread,1,6.99,Cash,6.99
+2026-04-14,ORD-01750,Sides,Chicken Wings,1,12.99,Card,12.99
+2026-04-14,ORD-01751,Desserts,Tiramisu,1,7.99,Card,7.99
+2026-04-14,ORD-01752,Drinks,Coke,1,2.99,Card,2.99
+2026-04-14,ORD-01752,Sides,Caesar Salad,1,8.99,Card,8.99
+2026-04-14,ORD-01753,Drinks,Water,1,1.99,Cash,1.99
+2026-04-14,ORD-01753,Pizza,BBQ Chicken,1,18.99,Cash,18.99
+2026-04-14,ORD-01753,Pizza,Meat Lovers,1,19.99,Cash,19.99
+2026-04-14,ORD-01754,Sides,Garlic Bread,1,6.99,Card,6.99
+2026-04-14,ORD-01754,Drinks,Water,1,1.99,Card,1.99
+2026-04-14,ORD-01755,Pizza,Vegetarian,1,15.99,Card,15.99
+2026-04-14,ORD-01755,Pizza,Margherita,1,14.99,Card,14.99
+2026-04-14,ORD-01756,Sides,Garlic Bread,1,6.99,Debit,6.99
+2026-04-14,ORD-01757,Pizza,BBQ Chicken,1,18.99,Card,18.99
+2026-04-14,ORD-01757,Pizza,Margherita,1,14.99,Card,14.99
+2026-04-14,ORD-01758,Pizza,Vegetarian,3,15.99,Cash,47.97
+2026-04-14,ORD-01759,Pizza,Hawaiian,1,17.99,Card,17.99
+2026-04-14,ORD-01759,Drinks,Coke,1,2.99,Card,2.99
+2026-04-14,ORD-01760,Pizza,Meat Lovers,1,19.99,Cash,19.99
+2026-04-14,ORD-01760,Pizza,Hawaiian,1,17.99,Cash,17.99
+2026-04-14,ORD-01760,Pizza,Margherita,1,14.99,Cash,14.99
+2026-04-14,ORD-01761,Sides,Garlic Bread,1,6.99,Card,6.99
+2026-04-14,ORD-01761,Pizza,Margherita,1,14.99,Card,14.99
+2026-04-14,ORD-01762,Pizza,Hawaiian,1,17.99,Card,17.99
+2026-04-14,ORD-01762,Desserts,Cheesecake,1,7.99,Card,7.99
+2026-04-14,ORD-01763,Pizza,BBQ Chicken,1,18.99,Cash,18.99
+2026-04-14,ORD-01763,Pizza,Margherita,1,14.99,Cash,14.99
+2026-04-14,ORD-01764,Drinks,Coffee,1,3.49,Cash,3.49
+2026-04-14,ORD-01765,Drinks,Water,1,1.99,Card,1.99
+2026-04-14,ORD-01765,Sides,Chicken Wings,1,12.99,Card,12.99
+2026-04-14,ORD-01765,Pizza,BBQ Chicken,1,18.99,Card,18.99
+2026-04-14,ORD-01766,Pizza,Pepperoni,1,16.99,Card,16.99
+2026-04-14,ORD-01767,Drinks,Sprite,1,2.99,Card,2.99
+2026-04-14,ORD-01767,Pizza,Margherita,1,14.99,Card,14.99
+2026-04-14,ORD-01768,Drinks,Water,1,1.99,Card,1.99
+2026-04-14,ORD-01768,Drinks,Sprite,1,2.99,Card,2.99
+2026-04-14,ORD-01768,Drinks,Coke,1,2.99,Card,2.99
+2026-04-15,ORD-01769,Pizza,BBQ Chicken,1,18.99,Cash,18.99
+2026-04-15,ORD-01769,Pizza,Meat Lovers,1,19.99,Cash,19.99
+2026-04-15,ORD-01769,Drinks,Water,1,1.99,Cash,1.99
+2026-04-15,ORD-01770,Pizza,Hawaiian,1,17.99,Card,17.99
+2026-04-15,ORD-01770,Sides,Mozzarella Sticks,1,9.99,Card,9.99
+2026-04-15,ORD-01771,Pizza,Vegetarian,1,15.99,Debit,15.99
+2026-04-15,ORD-01771,Desserts,Ice Cream,1,5.99,Debit,5.99
+2026-04-15,ORD-01771,Pizza,Margherita,1,14.99,Debit,14.99
+2026-04-15,ORD-01772,Drinks,Water,1,1.99,Card,1.99
+2026-04-15,ORD-01773,Pizza,BBQ Chicken,1,18.99,Cash,18.99
+2026-04-15,ORD-01774,Pizza,BBQ Chicken,2,18.99,Debit,37.98
+2026-04-15,ORD-01775,Sides,Garlic Bread,1,6.99,Card,6.99
+2026-04-15,ORD-01775,Pizza,BBQ Chicken,1,18.99,Card,18.99
+2026-04-15,ORD-01776,Drinks,Sprite,1,2.99,Cash,2.99
+2026-04-15,ORD-01777,Pizza,BBQ Chicken,1,18.99,Card,18.99
+2026-04-15,ORD-01777,Pizza,Vegetarian,1,15.99,Card,15.99
+2026-04-15,ORD-01777,Sides,Mozzarella Sticks,1,9.99,Card,9.99
+2026-04-15,ORD-01778,Pizza,Hawaiian,1,17.99,Card,17.99
+2026-04-15,ORD-01778,Pizza,Margherita,1,14.99,Card,14.99
+2026-04-15,ORD-01778,Sides,Chicken Wings,1,12.99,Card,12.99
+2026-04-15,ORD-01779,Sides,Mozzarella Sticks,1,9.99,Card,9.99
+2026-04-15,ORD-01780,Sides,Caesar Salad,1,8.99,Cash,8.99
+2026-04-15,ORD-01781,Pizza,Pepperoni,1,16.99,Card,16.99
+2026-04-15,ORD-01782,Pizza,Vegetarian,1,15.99,Debit,15.99
+2026-04-15,ORD-01782,Pizza,Pepperoni,1,16.99,Debit,16.99
+2026-04-15,ORD-01783,Pizza,Meat Lovers,1,19.99,Card,19.99
+2026-04-15,ORD-01783,Sides,Caesar Salad,2,8.99,Card,17.98
+2026-04-15,ORD-01784,Sides,Caesar Salad,1,8.99,Debit,8.99
+2026-04-15,ORD-01784,Pizza,Pepperoni,1,16.99,Debit,16.99
+2026-04-15,ORD-01785,Pizza,Vegetarian,1,15.99,Cash,15.99
+2026-04-15,ORD-01786,Pizza,Pepperoni,1,16.99,Cash,16.99
+2026-04-15,ORD-01787,Pizza,Meat Lovers,2,19.99,Cash,39.98
+2026-04-15,ORD-01788,Drinks,Coke,1,2.99,Card,2.99
+2026-04-15,ORD-01788,Desserts,Cheesecake,1,7.99,Card,7.99
+2026-04-15,ORD-01788,Pizza,Margherita,1,14.99,Card,14.99
+2026-04-15,ORD-01789,Pizza,Meat Lovers,1,19.99,Card,19.99
+2026-04-15,ORD-01789,Sides,Chicken Wings,1,12.99,Card,12.99
+2026-04-15,ORD-01789,Desserts,Cheesecake,1,7.99,Card,7.99
+2026-04-15,ORD-01790,Desserts,Tiramisu,1,7.99,Debit,7.99
+2026-04-15,ORD-01790,Pizza,Margherita,1,14.99,Debit,14.99
+2026-04-15,ORD-01791,Desserts,Tiramisu,1,7.99,Cash,7.99
+2026-04-15,ORD-01791,Sides,Garlic Bread,1,6.99,Cash,6.99
+2026-04-16,ORD-01792,Pizza,BBQ Chicken,1,18.99,Card,18.99
+2026-04-16,ORD-01793,Drinks,Coke,2,2.99,Card,5.98
+2026-04-16,ORD-01793,Sides,Mozzarella Sticks,1,9.99,Card,9.99
+2026-04-16,ORD-01794,Pizza,Vegetarian,1,15.99,Card,15.99
+2026-04-16,ORD-01795,Pizza,Vegetarian,1,15.99,Card,15.99
+2026-04-16,ORD-01795,Sides,Garlic Bread,1,6.99,Card,6.99
+2026-04-16,ORD-01796,Pizza,Margherita,1,14.99,Debit,14.99
+2026-04-16,ORD-01796,Desserts,Cheesecake,1,7.99,Debit,7.99
+2026-04-16,ORD-01796,Pizza,Pepperoni,1,16.99,Debit,16.99
+2026-04-16,ORD-01796,Sides,Caesar Salad,1,8.99,Debit,8.99
+2026-04-16,ORD-01797,Desserts,Ice Cream,1,5.99,Card,5.99
+2026-04-16,ORD-01798,Pizza,Meat Lovers,1,19.99,Card,19.99
+2026-04-16,ORD-01799,Sides,Mozzarella Sticks,1,9.99,Card,9.99
+2026-04-16,ORD-01800,Sides,Mozzarella Sticks,1,9.99,Card,9.99
+2026-04-16,ORD-01800,Pizza,Margherita,1,14.99,Card,14.99
+2026-04-16,ORD-01800,Pizza,Pepperoni,1,16.99,Card,16.99
+2026-04-16,ORD-01801,Pizza,Hawaiian,1,17.99,Cash,17.99
+2026-04-16,ORD-01801,Drinks,Coke,1,2.99,Cash,2.99
+2026-04-16,ORD-01801,Sides,Mozzarella Sticks,1,9.99,Cash,9.99
+2026-04-16,ORD-01802,Drinks,Coffee,1,3.49,Debit,3.49
+2026-04-16,ORD-01802,Sides,Garlic Bread,1,6.99,Debit,6.99
+2026-04-16,ORD-01802,Pizza,Pepperoni,1,16.99,Debit,16.99
+2026-04-16,ORD-01803,Pizza,Vegetarian,1,15.99,Card,15.99
+2026-04-16,ORD-01803,Pizza,Hawaiian,1,17.99,Card,17.99
+2026-04-16,ORD-01804,Pizza,Pepperoni,1,16.99,Card,16.99
+2026-04-16,ORD-01804,Pizza,BBQ Chicken,1,18.99,Card,18.99
+2026-04-16,ORD-01804,Pizza,Margherita,1,14.99,Card,14.99
+2026-04-16,ORD-01805,Drinks,Sprite,1,2.99,Card,2.99
+2026-04-16,ORD-01805,Pizza,Vegetarian,1,15.99,Card,15.99
+2026-04-16,ORD-01806,Pizza,Meat Lovers,1,19.99,Card,19.99
+2026-04-16,ORD-01806,Pizza,Hawaiian,1,17.99,Card,17.99
+2026-04-16,ORD-01806,Drinks,Coke,1,2.99,Card,2.99
+2026-04-16,ORD-01807,Pizza,Pepperoni,1,16.99,Card,16.99
+2026-04-16,ORD-01808,Sides,Chicken Wings,1,12.99,Card,12.99
+2026-04-16,ORD-01808,Pizza,Vegetarian,1,15.99,Card,15.99
+2026-04-16,ORD-01808,Pizza,Hawaiian,1,17.99,Card,17.99
+2026-04-16,ORD-01809,Pizza,Pepperoni,1,16.99,Card,16.99
+2026-04-16,ORD-01809,Drinks,Coke,1,2.99,Card,2.99
+2026-04-16,ORD-01810,Sides,Mozzarella Sticks,1,9.99,Card,9.99
+2026-04-16,ORD-01810,Pizza,Margherita,1,14.99,Card,14.99
+2026-04-16,ORD-01810,Drinks,Water,1,1.99,Card,1.99
+2026-04-16,ORD-01811,Sides,Garlic Bread,1,6.99,Card,6.99
+2026-04-16,ORD-01811,Sides,Chicken Wings,1,12.99,Card,12.99
+2026-04-16,ORD-01811,Drinks,Coke,1,2.99,Card,2.99
+2026-04-16,ORD-01811,Pizza,Vegetarian,1,15.99,Card,15.99
+2026-04-16,ORD-01812,Desserts,Cheesecake,1,7.99,Card,7.99
+2026-04-16,ORD-01813,Pizza,Margherita,1,14.99,Card,14.99
+2026-04-16,ORD-01813,Sides,Caesar Salad,1,8.99,Card,8.99
+2026-04-16,ORD-01813,Drinks,Coffee,1,3.49,Card,3.49
+2026-04-16,ORD-01814,Pizza,Vegetarian,1,15.99,Card,15.99
+2026-04-16,ORD-01814,Pizza,Meat Lovers,1,19.99,Card,19.99
+2026-04-16,ORD-01815,Pizza,Pepperoni,1,16.99,Cash,16.99
+2026-04-16,ORD-01816,Drinks,Water,1,1.99,Debit,1.99
+2026-04-16,ORD-01816,Pizza,Hawaiian,1,17.99,Debit,17.99
+2026-04-16,ORD-01817,Drinks,Water,1,1.99,Card,1.99
+2026-04-16,ORD-01817,Pizza,Margherita,1,14.99,Card,14.99
+2026-04-16,ORD-01818,Pizza,Hawaiian,1,17.99,Card,17.99
+2026-04-16,ORD-01818,Pizza,Pepperoni,1,16.99,Card,16.99
+2026-04-16,ORD-01819,Desserts,Cheesecake,1,7.99,Card,7.99
+2026-04-16,ORD-01820,Pizza,Hawaiian,1,17.99,Cash,17.99
+2026-04-16,ORD-01820,Desserts,Ice Cream,1,5.99,Cash,5.99
+2026-04-16,ORD-01820,Drinks,Water,1,1.99,Cash,1.99
+2026-04-16,ORD-01821,Sides,Chicken Wings,1,12.99,Debit,12.99
+2026-04-16,ORD-01821,Drinks,Sprite,1,2.99,Debit,2.99
+2026-04-16,ORD-01822,Pizza,Vegetarian,1,15.99,Card,15.99
+2026-04-16,ORD-01822,Pizza,BBQ Chicken,1,18.99,Card,18.99
+2026-04-16,ORD-01823,Sides,Garlic Bread,1,6.99,Card,6.99
+2026-04-16,ORD-01824,Sides,Garlic Bread,1,6.99,Card,6.99
+2026-04-16,ORD-01824,Pizza,Pepperoni,1,16.99,Card,16.99
+2026-04-16,ORD-01824,Pizza,Hawaiian,1,17.99,Card,17.99
+2026-04-16,ORD-01825,Pizza,Hawaiian,1,17.99,Card,17.99
+2026-04-16,ORD-01825,Pizza,Vegetarian,1,15.99,Card,15.99
+2026-04-16,ORD-01826,Pizza,BBQ Chicken,1,18.99,Cash,18.99
+2026-04-16,ORD-01826,Drinks,Sprite,1,2.99,Cash,2.99
+2026-04-16,ORD-01827,Pizza,Meat Lovers,1,19.99,Card,19.99
+2026-04-17,ORD-01828,Pizza,Hawaiian,1,17.99,Card,17.99
+2026-04-17,ORD-01828,Drinks,Coke,1,2.99,Card,2.99
+2026-04-17,ORD-01829,Sides,Garlic Bread,1,6.99,Card,6.99
+2026-04-17,ORD-01829,Sides,Caesar Salad,1,8.99,Card,8.99
+2026-04-17,ORD-01830,Pizza,Pepperoni,1,16.99,Debit,16.99
+2026-04-17,ORD-01830,Pizza,Meat Lovers,1,19.99,Debit,19.99
+2026-04-17,ORD-01831,Pizza,Meat Lovers,1,19.99,Card,19.99
+2026-04-17,ORD-01832,Pizza,BBQ Chicken,1,18.99,Card,18.99
+2026-04-17,ORD-01833,Drinks,Coke,1,2.99,Card,2.99
+2026-04-17,ORD-01834,Sides,Caesar Salad,1,8.99,Card,8.99
+2026-04-17,ORD-01834,Drinks,Water,1,1.99,Card,1.99
+2026-04-17,ORD-01834,Pizza,Vegetarian,1,15.99,Card,15.99
+2026-04-17,ORD-01835,Pizza,Pepperoni,1,16.99,Cash,16.99
+2026-04-17,ORD-01835,Pizza,Meat Lovers,1,19.99,Cash,19.99
+2026-04-17,ORD-01836,Sides,Caesar Salad,1,8.99,Card,8.99
+2026-04-17,ORD-01836,Pizza,Hawaiian,1,17.99,Card,17.99
+2026-04-17,ORD-01837,Drinks,Water,1,1.99,Card,1.99
+2026-04-17,ORD-01837,Drinks,Coffee,1,3.49,Card,3.49
+2026-04-17,ORD-01838,Drinks,Coffee,1,3.49,Card,3.49
+2026-04-17,ORD-01838,Pizza,Margherita,1,14.99,Card,14.99
+2026-04-17,ORD-01839,Pizza,BBQ Chicken,1,18.99,Card,18.99
+2026-04-17,ORD-01840,Pizza,Hawaiian,1,17.99,Cash,17.99
+2026-04-17,ORD-01840,Pizza,Pepperoni,1,16.99,Cash,16.99
+2026-04-17,ORD-01841,Pizza,Margherita,1,14.99,Card,14.99
+2026-04-17,ORD-01842,Pizza,Margherita,1,14.99,Cash,14.99
+2026-04-17,ORD-01842,Sides,Chicken Wings,1,12.99,Cash,12.99
+2026-04-17,ORD-01843,Drinks,Coffee,1,3.49,Card,3.49
+2026-04-17,ORD-01843,Desserts,Tiramisu,1,7.99,Card,7.99
+2026-04-17,ORD-01843,Pizza,Margherita,1,14.99,Card,14.99
+2026-04-17,ORD-01844,Pizza,Pepperoni,1,16.99,Cash,16.99
+2026-04-17,ORD-01844,Pizza,Vegetarian,1,15.99,Cash,15.99
+2026-04-17,ORD-01844,Sides,Garlic Bread,1,6.99,Cash,6.99
+2026-04-17,ORD-01845,Pizza,Pepperoni,1,16.99,Cash,16.99
+2026-04-17,ORD-01845,Drinks,Sprite,1,2.99,Cash,2.99
+2026-04-17,ORD-01846,Pizza,BBQ Chicken,1,18.99,Card,18.99
+2026-04-17,ORD-01847,Desserts,Cheesecake,1,7.99,Card,7.99
+2026-04-17,ORD-01848,Sides,Garlic Bread,1,6.99,Debit,6.99
+2026-04-17,ORD-01848,Sides,Chicken Wings,1,12.99,Debit,12.99
+2026-04-17,ORD-01848,Pizza,Pepperoni,2,16.99,Debit,33.98
+2026-04-17,ORD-01849,Pizza,Hawaiian,1,17.99,Card,17.99
+2026-04-17,ORD-01849,Drinks,Coffee,1,3.49,Card,3.49
+2026-04-17,ORD-01849,Sides,Mozzarella Sticks,1,9.99,Card,9.99
+2026-04-17,ORD-01850,Pizza,BBQ Chicken,1,18.99,Card,18.99
+2026-04-17,ORD-01850,Pizza,Meat Lovers,1,19.99,Card,19.99
+2026-04-17,ORD-01850,Desserts,Tiramisu,1,7.99,Card,7.99
+2026-04-17,ORD-01851,Desserts,Ice Cream,1,5.99,Debit,5.99
+2026-04-17,ORD-01851,Sides,Mozzarella Sticks,1,9.99,Debit,9.99
+2026-04-17,ORD-01851,Drinks,Coffee,1,3.49,Debit,3.49
+2026-04-17,ORD-01852,Sides,Caesar Salad,1,8.99,Cash,8.99
+2026-04-17,ORD-01852,Sides,Mozzarella Sticks,1,9.99,Cash,9.99
+2026-04-17,ORD-01853,Drinks,Coke,1,2.99,Card,2.99
+2026-04-17,ORD-01853,Desserts,Cheesecake,1,7.99,Card,7.99
+2026-04-17,ORD-01854,Sides,Caesar Salad,1,8.99,Debit,8.99
+2026-04-17,ORD-01855,Sides,Mozzarella Sticks,1,9.99,Card,9.99
+2026-04-17,ORD-01855,Drinks,Coke,1,2.99,Card,2.99
+2026-04-17,ORD-01855,Pizza,Pepperoni,1,16.99,Card,16.99
+2026-04-17,ORD-01856,Pizza,Meat Lovers,1,19.99,Cash,19.99
+2026-04-17,ORD-01857,Pizza,Vegetarian,1,15.99,Cash,15.99
+2026-04-17,ORD-01858,Sides,Caesar Salad,1,8.99,Debit,8.99
+2026-04-17,ORD-01858,Pizza,Pepperoni,1,16.99,Debit,16.99
+2026-04-17,ORD-01859,Desserts,Cheesecake,1,7.99,Card,7.99
+2026-04-17,ORD-01860,Drinks,Sprite,1,2.99,Debit,2.99
+2026-04-17,ORD-01860,Pizza,Margherita,1,14.99,Debit,14.99
+2026-04-17,ORD-01860,Sides,Mozzarella Sticks,1,9.99,Debit,9.99
+2026-04-17,ORD-01861,Desserts,Cheesecake,1,7.99,Debit,7.99
+2026-04-17,ORD-01861,Sides,Chicken Wings,1,12.99,Debit,12.99
+2026-04-17,ORD-01861,Pizza,Hawaiian,1,17.99,Debit,17.99
+2026-04-17,ORD-01861,Pizza,Vegetarian,1,15.99,Debit,15.99
+2026-04-17,ORD-01862,Pizza,Hawaiian,1,17.99,Debit,17.99
+2026-04-17,ORD-01863,Drinks,Water,1,1.99,Card,1.99
+2026-04-17,ORD-01863,Pizza,Margherita,1,14.99,Card,14.99
+2026-04-17,ORD-01864,Drinks,Sprite,2,2.99,Debit,5.98
+2026-04-17,ORD-01864,Pizza,Pepperoni,1,16.99,Debit,16.99
+2026-04-17,ORD-01865,Pizza,Margherita,1,14.99,Card,14.99
+2026-04-17,ORD-01865,Pizza,Meat Lovers,1,19.99,Card,19.99
+2026-04-17,ORD-01865,Drinks,Coke,1,2.99,Card,2.99
+2026-04-17,ORD-01866,Sides,Mozzarella Sticks,1,9.99,Card,9.99
+2026-04-17,ORD-01866,Drinks,Sprite,1,2.99,Card,2.99
+2026-04-17,ORD-01866,Drinks,Water,1,1.99,Card,1.99
+2026-04-17,ORD-01866,Pizza,Margherita,1,14.99,Card,14.99
+2026-04-17,ORD-01867,Sides,Mozzarella Sticks,1,9.99,Card,9.99
+2026-04-17,ORD-01868,Pizza,Pepperoni,1,16.99,Card,16.99
+2026-04-17,ORD-01868,Sides,Mozzarella Sticks,1,9.99,Card,9.99
+2026-04-17,ORD-01868,Pizza,Vegetarian,1,15.99,Card,15.99
+2026-04-17,ORD-01869,Drinks,Water,2,1.99,Card,3.98
+2026-04-17,ORD-01870,Sides,Garlic Bread,1,6.99,Card,6.99
+2026-04-17,ORD-01871,Pizza,Pepperoni,1,16.99,Card,16.99
+2026-04-17,ORD-01872,Sides,Garlic Bread,1,6.99,Debit,6.99
+2026-04-17,ORD-01872,Pizza,Margherita,1,14.99,Debit,14.99
+2026-04-17,ORD-01873,Pizza,Hawaiian,1,17.99,Card,17.99
+2026-04-17,ORD-01874,Drinks,Water,1,1.99,Card,1.99
+2026-04-17,ORD-01875,Sides,Chicken Wings,1,12.99,Debit,12.99
+2026-04-17,ORD-01875,Pizza,Meat Lovers,1,19.99,Debit,19.99
+2026-04-18,ORD-01876,Sides,Garlic Bread,1,6.99,Cash,6.99
+2026-04-18,ORD-01876,Desserts,Cheesecake,1,7.99,Cash,7.99
+2026-04-18,ORD-01877,Pizza,Meat Lovers,1,19.99,Card,19.99
+2026-04-18,ORD-01877,Drinks,Coffee,1,3.49,Card,3.49
+2026-04-18,ORD-01878,Sides,Garlic Bread,1,6.99,Debit,6.99
+2026-04-18,ORD-01878,Pizza,Meat Lovers,1,19.99,Debit,19.99
+2026-04-18,ORD-01879,Pizza,BBQ Chicken,1,18.99,Card,18.99
+2026-04-18,ORD-01880,Pizza,Margherita,1,14.99,Card,14.99
+2026-04-18,ORD-01881,Drinks,Water,1,1.99,Card,1.99
+2026-04-18,ORD-01881,Pizza,Pepperoni,1,16.99,Card,16.99
+2026-04-18,ORD-01881,Sides,Chicken Wings,1,12.99,Card,12.99
+2026-04-18,ORD-01882,Drinks,Coke,1,2.99,Debit,2.99
+2026-04-18,ORD-01882,Pizza,Hawaiian,1,17.99,Debit,17.99
+2026-04-18,ORD-01883,Pizza,BBQ Chicken,1,18.99,Debit,18.99
+2026-04-18,ORD-01883,Pizza,Pepperoni,1,16.99,Debit,16.99
+2026-04-18,ORD-01883,Desserts,Ice Cream,1,5.99,Debit,5.99
+2026-04-18,ORD-01883,Sides,Caesar Salad,1,8.99,Debit,8.99
+2026-04-18,ORD-01884,Pizza,Pepperoni,1,16.99,Debit,16.99
+2026-04-18,ORD-01885,Drinks,Coke,1,2.99,Card,2.99
+2026-04-18,ORD-01885,Pizza,Meat Lovers,1,19.99,Card,19.99
+2026-04-18,ORD-01886,Pizza,Margherita,1,14.99,Debit,14.99
+2026-04-18,ORD-01886,Drinks,Coke,1,2.99,Debit,2.99
+2026-04-18,ORD-01887,Pizza,Pepperoni,1,16.99,Debit,16.99
+2026-04-18,ORD-01887,Pizza,Margherita,1,14.99,Debit,14.99
+2026-04-18,ORD-01888,Drinks,Coffee,1,3.49,Card,3.49
+2026-04-18,ORD-01889,Drinks,Sprite,1,2.99,Card,2.99
+2026-04-18,ORD-01890,Pizza,Meat Lovers,1,19.99,Debit,19.99
+2026-04-18,ORD-01891,Drinks,Coffee,1,3.49,Cash,3.49
+2026-04-18,ORD-01891,Pizza,BBQ Chicken,1,18.99,Cash,18.99
+2026-04-18,ORD-01892,Drinks,Coke,1,2.99,Debit,2.99
+2026-04-18,ORD-01892,Pizza,Vegetarian,1,15.99,Debit,15.99
+2026-04-18,ORD-01893,Pizza,Meat Lovers,1,19.99,Cash,19.99
+2026-04-18,ORD-01893,Pizza,Margherita,1,14.99,Cash,14.99
+2026-04-18,ORD-01894,Desserts,Cheesecake,1,7.99,Card,7.99
+2026-04-18,ORD-01894,Sides,Caesar Salad,1,8.99,Card,8.99
+2026-04-18,ORD-01894,Desserts,Tiramisu,1,7.99,Card,7.99
+2026-04-18,ORD-01895,Pizza,BBQ Chicken,1,18.99,Cash,18.99
+2026-04-18,ORD-01895,Desserts,Tiramisu,1,7.99,Cash,7.99
+2026-04-18,ORD-01895,Sides,Caesar Salad,1,8.99,Cash,8.99
+2026-04-18,ORD-01896,Pizza,Margherita,2,14.99,Cash,29.98
+2026-04-18,ORD-01897,Pizza,BBQ Chicken,1,18.99,Card,18.99
+2026-04-18,ORD-01897,Pizza,Hawaiian,1,17.99,Card,17.99
+2026-04-18,ORD-01897,Pizza,Meat Lovers,1,19.99,Card,19.99
+2026-04-18,ORD-01898,Sides,Chicken Wings,1,12.99,Card,12.99
+2026-04-18,ORD-01899,Pizza,BBQ Chicken,1,18.99,Debit,18.99
+2026-04-18,ORD-01899,Drinks,Coffee,1,3.49,Debit,3.49
+2026-04-18,ORD-01900,Pizza,Meat Lovers,1,19.99,Card,19.99
+2026-04-18,ORD-01900,Pizza,Margherita,1,14.99,Card,14.99
+2026-04-18,ORD-01901,Pizza,Hawaiian,1,17.99,Card,17.99
+2026-04-18,ORD-01901,Drinks,Coffee,1,3.49,Card,3.49
+2026-04-18,ORD-01902,Pizza,Meat Lovers,1,19.99,Card,19.99
+2026-04-18,ORD-01902,Sides,Caesar Salad,1,8.99,Card,8.99
+2026-04-18,ORD-01903,Pizza,Vegetarian,1,15.99,Debit,15.99
+2026-04-18,ORD-01903,Pizza,Hawaiian,1,17.99,Debit,17.99
+2026-04-18,ORD-01904,Sides,Chicken Wings,1,12.99,Card,12.99
+2026-04-18,ORD-01905,Pizza,Vegetarian,1,15.99,Debit,15.99
+2026-04-18,ORD-01905,Drinks,Sprite,1,2.99,Debit,2.99
+2026-04-18,ORD-01906,Drinks,Water,1,1.99,Card,1.99
+2026-04-18,ORD-01906,Sides,Chicken Wings,1,12.99,Card,12.99
+2026-04-18,ORD-01907,Drinks,Water,1,1.99,Debit,1.99
+2026-04-18,ORD-01907,Pizza,Hawaiian,1,17.99,Debit,17.99
+2026-04-18,ORD-01908,Drinks,Water,1,1.99,Card,1.99
+2026-04-18,ORD-01909,Pizza,BBQ Chicken,1,18.99,Card,18.99
+2026-04-18,ORD-01910,Drinks,Coffee,1,3.49,Debit,3.49
+2026-04-18,ORD-01910,Pizza,BBQ Chicken,1,18.99,Debit,18.99
+2026-04-18,ORD-01911,Pizza,Margherita,1,14.99,Cash,14.99
+2026-04-18,ORD-01911,Sides,Garlic Bread,1,6.99,Cash,6.99
+2026-04-18,ORD-01911,Pizza,Meat Lovers,1,19.99,Cash,19.99
+2026-04-18,ORD-01912,Pizza,BBQ Chicken,1,18.99,Debit,18.99
+2026-04-18,ORD-01913,Drinks,Sprite,1,2.99,Card,2.99
+2026-04-18,ORD-01913,Pizza,Meat Lovers,1,19.99,Card,19.99
+2026-04-18,ORD-01914,Drinks,Coffee,1,3.49,Card,3.49
+2026-04-18,ORD-01914,Pizza,BBQ Chicken,1,18.99,Card,18.99
+2026-04-18,ORD-01915,Sides,Mozzarella Sticks,1,9.99,Card,9.99
+2026-04-18,ORD-01915,Pizza,Hawaiian,1,17.99,Card,17.99
+2026-04-18,ORD-01915,Pizza,Margherita,1,14.99,Card,14.99
+2026-04-18,ORD-01915,Drinks,Coffee,1,3.49,Card,3.49
+2026-04-18,ORD-01916,Drinks,Coke,1,2.99,Card,2.99
+2026-04-18,ORD-01916,Desserts,Cheesecake,1,7.99,Card,7.99
+2026-04-18,ORD-01917,Pizza,Meat Lovers,1,19.99,Card,19.99
+2026-04-18,ORD-01918,Pizza,Vegetarian,2,15.99,Debit,31.98
+2026-04-18,ORD-01918,Drinks,Coke,1,2.99,Debit,2.99
+2026-04-18,ORD-01919,Pizza,Hawaiian,1,17.99,Card,17.99
+2026-04-18,ORD-01919,Pizza,Margherita,1,14.99,Card,14.99
+2026-04-18,ORD-01920,Sides,Chicken Wings,1,12.99,Card,12.99
+2026-04-18,ORD-01921,Pizza,Vegetarian,1,15.99,Debit,15.99
+2026-04-18,ORD-01922,Drinks,Coke,1,2.99,Card,2.99
+2026-04-18,ORD-01922,Pizza,Hawaiian,1,17.99,Card,17.99
+2026-04-18,ORD-01922,Pizza,Meat Lovers,1,19.99,Card,19.99
+2026-04-18,ORD-01923,Pizza,Vegetarian,1,15.99,Debit,15.99
+2026-04-18,ORD-01923,Sides,Garlic Bread,1,6.99,Debit,6.99
+2026-04-18,ORD-01923,Drinks,Sprite,1,2.99,Debit,2.99
+2026-04-18,ORD-01924,Drinks,Water,2,1.99,Card,3.98
+2026-04-18,ORD-01925,Pizza,Vegetarian,1,15.99,Card,15.99
+2026-04-18,ORD-01925,Pizza,Hawaiian,1,17.99,Card,17.99
+2026-04-18,ORD-01925,Desserts,Tiramisu,1,7.99,Card,7.99
+2026-04-18,ORD-01926,Pizza,Meat Lovers,1,19.99,Cash,19.99
+2026-04-18,ORD-01926,Sides,Caesar Salad,1,8.99,Cash,8.99
+2026-04-18,ORD-01926,Drinks,Sprite,1,2.99,Cash,2.99
+2026-04-18,ORD-01927,Pizza,Meat Lovers,1,19.99,Card,19.99
+2026-04-18,ORD-01928,Pizza,Margherita,1,14.99,Cash,14.99
+2026-04-18,ORD-01928,Sides,Chicken Wings,1,12.99,Cash,12.99
+2026-04-18,ORD-01929,Drinks,Sprite,1,2.99,Card,2.99
+2026-04-18,ORD-01929,Pizza,Margherita,1,14.99,Card,14.99
+2026-04-18,ORD-01929,Pizza,BBQ Chicken,1,18.99,Card,18.99
+2026-04-18,ORD-01929,Pizza,Hawaiian,1,17.99,Card,17.99
+2026-04-18,ORD-01930,Pizza,Pepperoni,1,16.99,Debit,16.99
+2026-04-18,ORD-01930,Sides,Garlic Bread,1,6.99,Debit,6.99
+2026-04-18,ORD-01931,Pizza,Vegetarian,1,15.99,Card,15.99
+2026-04-18,ORD-01931,Drinks,Coffee,1,3.49,Card,3.49
+2026-04-18,ORD-01931,Pizza,BBQ Chicken,1,18.99,Card,18.99
+2026-04-18,ORD-01932,Pizza,Margherita,1,14.99,Card,14.99
+2026-04-18,ORD-01932,Pizza,Hawaiian,1,17.99,Card,17.99
+2026-04-18,ORD-01933,Sides,Mozzarella Sticks,1,9.99,Card,9.99
+2026-04-18,ORD-01933,Pizza,Pepperoni,1,16.99,Card,16.99
+2026-04-18,ORD-01934,Pizza,Vegetarian,1,15.99,Cash,15.99
+2026-04-18,ORD-01934,Pizza,Meat Lovers,1,19.99,Cash,19.99
+2026-04-18,ORD-01935,Pizza,Meat Lovers,1,19.99,Card,19.99
+2026-04-18,ORD-01935,Pizza,Margherita,1,14.99,Card,14.99
+2026-04-18,ORD-01935,Desserts,Tiramisu,1,7.99,Card,7.99
+2026-04-18,ORD-01936,Pizza,Meat Lovers,1,19.99,Cash,19.99
+2026-04-18,ORD-01937,Pizza,Hawaiian,1,17.99,Card,17.99
+2026-04-18,ORD-01937,Pizza,Pepperoni,1,16.99,Card,16.99
+2026-04-18,ORD-01938,Pizza,BBQ Chicken,1,18.99,Debit,18.99
+2026-04-18,ORD-01939,Drinks,Water,1,1.99,Debit,1.99
+2026-04-18,ORD-01939,Pizza,BBQ Chicken,1,18.99,Debit,18.99
+2026-04-18,ORD-01940,Sides,Chicken Wings,1,12.99,Card,12.99
+2026-04-18,ORD-01941,Pizza,Vegetarian,1,15.99,Debit,15.99
+2026-04-18,ORD-01941,Pizza,BBQ Chicken,1,18.99,Debit,18.99
+2026-04-18,ORD-01942,Pizza,Pepperoni,2,16.99,Debit,33.98
+2026-04-18,ORD-01943,Pizza,Hawaiian,1,17.99,Cash,17.99
+2026-04-18,ORD-01943,Pizza,Margherita,1,14.99,Cash,14.99
+2026-04-18,ORD-01944,Pizza,Meat Lovers,1,19.99,Card,19.99
+2026-04-18,ORD-01944,Pizza,Margherita,1,14.99,Card,14.99
+2026-04-18,ORD-01945,Pizza,Hawaiian,1,17.99,Debit,17.99
+2026-04-19,ORD-01946,Drinks,Coke,1,2.99,Cash,2.99
+2026-04-19,ORD-01946,Pizza,Meat Lovers,1,19.99,Cash,19.99
+2026-04-19,ORD-01946,Pizza,Margherita,1,14.99,Cash,14.99
+2026-04-19,ORD-01947,Drinks,Coke,1,2.99,Card,2.99
+2026-04-19,ORD-01948,Pizza,Meat Lovers,1,19.99,Card,19.99
+2026-04-19,ORD-01948,Pizza,Margherita,1,14.99,Card,14.99
+2026-04-19,ORD-01949,Desserts,Tiramisu,1,7.99,Card,7.99
+2026-04-19,ORD-01950,Sides,Chicken Wings,1,12.99,Debit,12.99
+2026-04-19,ORD-01951,Sides,Mozzarella Sticks,1,9.99,Debit,9.99
+2026-04-19,ORD-01951,Pizza,BBQ Chicken,1,18.99,Debit,18.99
+2026-04-19,ORD-01952,Drinks,Water,1,1.99,Debit,1.99
+2026-04-19,ORD-01952,Pizza,Pepperoni,1,16.99,Debit,16.99
+2026-04-19,ORD-01953,Pizza,BBQ Chicken,1,18.99,Card,18.99
+2026-04-19,ORD-01954,Pizza,Pepperoni,1,16.99,Card,16.99
+2026-04-19,ORD-01954,Pizza,Vegetarian,1,15.99,Card,15.99
+2026-04-19,ORD-01955,Pizza,BBQ Chicken,2,18.99,Cash,37.98
+2026-04-19,ORD-01956,Pizza,BBQ Chicken,1,18.99,Debit,18.99
+2026-04-19,ORD-01957,Sides,Mozzarella Sticks,2,9.99,Card,19.98
+2026-04-19,ORD-01958,Sides,Garlic Bread,1,6.99,Debit,6.99
+2026-04-19,ORD-01958,Sides,Caesar Salad,1,8.99,Debit,8.99
+2026-04-19,ORD-01959,Pizza,Meat Lovers,1,19.99,Card,19.99
+2026-04-19,ORD-01959,Pizza,BBQ Chicken,1,18.99,Card,18.99
+2026-04-19,ORD-01959,Pizza,Margherita,1,14.99,Card,14.99
+2026-04-19,ORD-01959,Sides,Mozzarella Sticks,1,9.99,Card,9.99
+2026-04-19,ORD-01960,Sides,Caesar Salad,1,8.99,Debit,8.99
+2026-04-19,ORD-01961,Drinks,Water,1,1.99,Cash,1.99
+2026-04-19,ORD-01961,Pizza,Hawaiian,1,17.99,Cash,17.99
+2026-04-19,ORD-01961,Sides,Mozzarella Sticks,1,9.99,Cash,9.99
+2026-04-19,ORD-01962,Pizza,BBQ Chicken,1,18.99,Debit,18.99
+2026-04-19,ORD-01962,Pizza,Meat Lovers,1,19.99,Debit,19.99
+2026-04-19,ORD-01963,Pizza,Pepperoni,1,16.99,Card,16.99
+2026-04-19,ORD-01964,Pizza,Pepperoni,1,16.99,Debit,16.99
+2026-04-19,ORD-01964,Pizza,Meat Lovers,2,19.99,Debit,39.98
+2026-04-19,ORD-01965,Desserts,Ice Cream,1,5.99,Card,5.99
+2026-04-19,ORD-01966,Pizza,Margherita,1,14.99,Debit,14.99
+2026-04-19,ORD-01966,Drinks,Coke,1,2.99,Debit,2.99
+2026-04-19,ORD-01967,Desserts,Cheesecake,1,7.99,Cash,7.99
+2026-04-19,ORD-01967,Pizza,Pepperoni,1,16.99,Cash,16.99
+2026-04-19,ORD-01968,Pizza,Hawaiian,1,17.99,Debit,17.99
+2026-04-19,ORD-01969,Pizza,BBQ Chicken,1,18.99,Card,18.99
+2026-04-19,ORD-01970,Desserts,Ice Cream,1,5.99,Card,5.99
+2026-04-19,ORD-01970,Pizza,BBQ Chicken,1,18.99,Card,18.99
+2026-04-19,ORD-01971,Pizza,BBQ Chicken,1,18.99,Card,18.99
+2026-04-19,ORD-01972,Sides,Garlic Bread,1,6.99,Cash,6.99
+2026-04-19,ORD-01972,Desserts,Ice Cream,1,5.99,Cash,5.99
+2026-04-19,ORD-01972,Pizza,Pepperoni,1,16.99,Cash,16.99
+2026-04-19,ORD-01973,Pizza,Hawaiian,1,17.99,Cash,17.99
+2026-04-19,ORD-01973,Pizza,Margherita,1,14.99,Cash,14.99
+2026-04-19,ORD-01974,Pizza,Margherita,1,14.99,Card,14.99
+2026-04-19,ORD-01974,Pizza,Pepperoni,1,16.99,Card,16.99
+2026-04-19,ORD-01975,Drinks,Sprite,1,2.99,Card,2.99
+2026-04-19,ORD-01976,Pizza,Hawaiian,1,17.99,Card,17.99
+2026-04-19,ORD-01977,Desserts,Tiramisu,1,7.99,Card,7.99
+2026-04-19,ORD-01977,Pizza,BBQ Chicken,1,18.99,Card,18.99
+2026-04-19,ORD-01978,Drinks,Water,1,1.99,Card,1.99
+2026-04-19,ORD-01978,Drinks,Sprite,1,2.99,Card,2.99
+2026-04-19,ORD-01978,Drinks,Coke,1,2.99,Card,2.99
+2026-04-19,ORD-01979,Pizza,Margherita,1,14.99,Card,14.99
+2026-04-19,ORD-01980,Pizza,BBQ Chicken,1,18.99,Card,18.99
+2026-04-19,ORD-01981,Desserts,Cheesecake,1,7.99,Debit,7.99
+2026-04-19,ORD-01981,Sides,Caesar Salad,1,8.99,Debit,8.99
+2026-04-19,ORD-01982,Sides,Caesar Salad,1,8.99,Debit,8.99
+2026-04-19,ORD-01983,Sides,Caesar Salad,1,8.99,Debit,8.99
+2026-04-19,ORD-01983,Pizza,Hawaiian,1,17.99,Debit,17.99
+2026-04-19,ORD-01983,Drinks,Water,1,1.99,Debit,1.99
+2026-04-19,ORD-01983,Pizza,Margherita,1,14.99,Debit,14.99
+2026-04-19,ORD-01984,Drinks,Coke,1,2.99,Card,2.99
+2026-04-19,ORD-01984,Pizza,BBQ Chicken,1,18.99,Card,18.99
+2026-04-19,ORD-01984,Pizza,Pepperoni,1,16.99,Card,16.99
+2026-04-20,ORD-01985,Desserts,Cheesecake,1,7.99,Cash,7.99
+2026-04-20,ORD-01985,Pizza,Hawaiian,1,17.99,Cash,17.99
+2026-04-20,ORD-01986,Pizza,Hawaiian,1,17.99,Card,17.99
+2026-04-20,ORD-01987,Drinks,Water,1,1.99,Cash,1.99
+2026-04-20,ORD-01987,Pizza,Meat Lovers,1,19.99,Cash,19.99
+2026-04-20,ORD-01988,Sides,Garlic Bread,1,6.99,Cash,6.99
+2026-04-20,ORD-01988,Pizza,BBQ Chicken,1,18.99,Cash,18.99
+2026-04-20,ORD-01989,Pizza,Pepperoni,1,16.99,Debit,16.99
+2026-04-20,ORD-01989,Pizza,Margherita,1,14.99,Debit,14.99
+2026-04-20,ORD-01990,Pizza,Hawaiian,1,17.99,Card,17.99
+2026-04-20,ORD-01990,Pizza,Margherita,1,14.99,Card,14.99
+2026-04-20,ORD-01991,Drinks,Water,1,1.99,Card,1.99
+2026-04-20,ORD-01991,Pizza,Meat Lovers,1,19.99,Card,19.99
+2026-04-20,ORD-01992,Drinks,Water,1,1.99,Card,1.99
+2026-04-20,ORD-01992,Pizza,Hawaiian,1,17.99,Card,17.99
+2026-04-20,ORD-01993,Sides,Chicken Wings,1,12.99,Card,12.99
+2026-04-20,ORD-01993,Desserts,Cheesecake,1,7.99,Card,7.99
+2026-04-20,ORD-01993,Desserts,Ice Cream,1,5.99,Card,5.99
+2026-04-20,ORD-01994,Pizza,BBQ Chicken,1,18.99,Card,18.99
+2026-04-20,ORD-01995,Drinks,Coke,1,2.99,Card,2.99
+2026-04-20,ORD-01995,Pizza,Hawaiian,1,17.99,Card,17.99
+2026-04-20,ORD-01995,Pizza,Margherita,1,14.99,Card,14.99
+2026-04-20,ORD-01996,Sides,Mozzarella Sticks,1,9.99,Card,9.99
+2026-04-20,ORD-01996,Sides,Garlic Bread,1,6.99,Card,6.99
+2026-04-20,ORD-01996,Drinks,Sprite,1,2.99,Card,2.99
+2026-04-20,ORD-01997,Desserts,Tiramisu,1,7.99,Card,7.99
+2026-04-20,ORD-01998,Pizza,Meat Lovers,1,19.99,Card,19.99
+2026-04-20,ORD-01998,Pizza,Pepperoni,1,16.99,Card,16.99
+2026-04-20,ORD-01998,Pizza,BBQ Chicken,1,18.99,Card,18.99
+2026-04-20,ORD-01999,Drinks,Sprite,1,2.99,Card,2.99
+2026-04-20,ORD-01999,Pizza,Meat Lovers,1,19.99,Card,19.99
+2026-04-20,ORD-01999,Sides,Chicken Wings,1,12.99,Card,12.99
+2026-04-20,ORD-02000,Pizza,Pepperoni,1,16.99,Card,16.99
+2026-04-20,ORD-02000,Pizza,Meat Lovers,1,19.99,Card,19.99
+2026-04-20,ORD-02001,Drinks,Coke,1,2.99,Card,2.99
+2026-04-20,ORD-02002,Pizza,Margherita,1,14.99,Debit,14.99
+2026-04-20,ORD-02002,Drinks,Sprite,1,2.99,Debit,2.99
+2026-04-20,ORD-02003,Pizza,Pepperoni,1,16.99,Card,16.99
+2026-04-20,ORD-02003,Sides,Mozzarella Sticks,1,9.99,Card,9.99
+2026-04-20,ORD-02003,Pizza,Vegetarian,1,15.99,Card,15.99
+2026-04-20,ORD-02004,Sides,Caesar Salad,1,8.99,Card,8.99
+2026-04-20,ORD-02005,Desserts,Ice Cream,1,5.99,Card,5.99
+2026-04-20,ORD-02005,Sides,Garlic Bread,1,6.99,Card,6.99
+2026-04-20,ORD-02006,Pizza,Pepperoni,1,16.99,Debit,16.99
+2026-04-20,ORD-02007,Drinks,Coffee,1,3.49,Cash,3.49
+2026-04-20,ORD-02007,Drinks,Coke,1,2.99,Cash,2.99
+2026-04-20,ORD-02007,Desserts,Cheesecake,1,7.99,Cash,7.99

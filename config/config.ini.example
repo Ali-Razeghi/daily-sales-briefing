@@ -1,0 +1,87 @@
+#==============================================================================
+# Daily Sales Briefing — Configuration File
+#==============================================================================
+#
+# This file controls all behavior of the briefing tool. After editing it,
+# run: python src/main.py
+#
+# For security, email credentials can be provided as environment variables
+# instead of in this file. See the [email] section below.
+#==============================================================================
+
+[business]
+# The name shown in the report header and email subject
+name = Pizza Corner
+
+[data]
+# Path to the sales data file (relative to project root, or absolute)
+csv_path = data/sales_data.csv
+
+# How the data should be parsed:
+#   standard — our native CSV format (Date, Category, Item, Quantity, Price, Total [, OrderID])
+#   square   — Square POS export
+#   shopify  — Shopify POS export  
+#   excel    — Generic Excel with column mapping (see [excel_mapping] section below)
+source_type = standard
+
+[excel_mapping]
+# Only used when source_type = excel
+# Map our standard column names to the customer's Excel column names.
+# Comment out or leave blank if not using Excel.
+#
+# sheet_name = Sales
+# date_col = Transaction Date
+# category_col = Product Type
+# item_col = Product Name
+# quantity_col = Qty
+# price_col = Unit Price
+# total_col = Amount
+# order_id_col = Order Number
+
+[output]
+# Where to save the generated PDF report
+pdf_output_dir = reports
+
+[email]
+# SMTP server settings (defaults work for Gmail)
+smtp_server = smtp.gmail.com
+smtp_port = 587
+use_tls = true
+
+# Recipient — where to send the briefing
+recipient_email = owner@business.com
+
+# --- Credentials ---
+# SECURITY RECOMMENDATION: Use environment variables instead of this file.
+# If these environment variables are set, they override the values below:
+#   BRIEFING_SMTP_EMAIL    — sender email
+#   BRIEFING_SMTP_PASSWORD — sender password (Gmail App Password)
+#
+# If you must store credentials here, remember that config.ini is in
+# .gitignore and should never be committed to source control.
+#
+# For Gmail, use an App Password (NOT your regular password):
+#   https://myaccount.google.com/apppasswords
+sender_email = your-email@gmail.com
+sender_password = your-app-password-here
+
+[alerts]
+# Thresholds for triggering intelligent alerts.
+# Adjust these to match your business's normal variability.
+
+# A daily revenue change greater than this (percent) triggers an alert
+daily_revenue_up_pct = 20
+daily_revenue_down_pct = 20
+
+# A weekly revenue change greater than this triggers an alert
+weekly_change_pct = 15
+
+# Today's revenue as a multiplier of the 7-day average triggers
+# an "above average day" alert. 1.3 = 30% above average.
+above_average_multiplier = 1.3
+
+[schedule]
+# Time to run the briefing each day (24-hour format, HH:MM)
+# Only used when running scheduler.py.
+# For production, prefer cron (Linux) or Task Scheduler (Windows).
+daily_run_time = 08:00

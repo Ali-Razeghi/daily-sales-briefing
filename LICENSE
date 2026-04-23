@@ -1,0 +1,61 @@
+Daily Sales Briefing — Community Edition License
+
+Copyright (c) 2026 Ali Razeghi. All rights reserved.
+
+================================================================================
+
+This software (the "Community Edition") is provided solely for portfolio
+demonstration, personal learning, and non-commercial evaluation purposes.
+
+PERMITTED USES
+
+You are permitted to:
+  1. View and read the source code for educational purposes
+  2. Run the software locally for personal, non-commercial evaluation
+  3. Reference this project in your own portfolio or resume
+     (with attribution to the author)
+  4. Fork the repository for personal learning
+
+PROHIBITED USES
+
+You are NOT permitted to, without prior written permission:
+  1. Use this software, in whole or in part, for any commercial purpose
+  2. Redistribute, republish, or sublicense this software
+  3. Remove or modify the "Community Edition" notices or this license
+  4. Use this software to provide paid services to third parties
+  5. Integrate this software into commercial products
+  6. Sell, rent, lease, or otherwise commercially exploit this software
+     or any derivative work
+
+PRO EDITION
+
+A commercial Pro Edition with additional features, setup services, and
+ongoing support is available separately. The Pro Edition includes:
+
+  - Direct POS integrations (Square, Shopify, Clover, Lightspeed)
+  - Advanced analytics (weekday benchmarking, anomaly detection,
+    seasonality, forecasting)
+  - Context-aware human-readable insights
+  - Custom branding (logos, color themes)
+  - Multi-business / multi-location support
+  - Rich HTML email with insights summary
+  - SMS, WhatsApp, and Slack delivery channels
+  - Setup, deployment, and ongoing support
+
+For commercial licensing or Pro Edition inquiries, contact:
+  razeghi.a@gmail.com
+
+DISCLAIMER
+
+THE SOFTWARE IS PROVIDED "AS IS", WITHOUT WARRANTY OF ANY KIND, EXPRESS OR
+IMPLIED, INCLUDING BUT NOT LIMITED TO THE WARRANTIES OF MERCHANTABILITY,
+FITNESS FOR A PARTICULAR PURPOSE AND NONINFRINGEMENT. IN NO EVENT SHALL THE
+AUTHOR BE LIABLE FOR ANY CLAIM, DAMAGES OR OTHER LIABILITY, WHETHER IN AN
+ACTION OF CONTRACT, TORT OR OTHERWISE, ARISING FROM, OUT OF OR IN CONNECTION
+WITH THE SOFTWARE OR THE USE OR OTHER DEALINGS IN THE SOFTWARE.
+
+================================================================================
+
+Ali Razeghi
+Newmarket, Ontario, Canada
+razeghi.a@gmail.com
